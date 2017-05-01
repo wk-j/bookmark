@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-01 20:39]` [Yet Antoher Resource for Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - `[2017-05-01 20:37]` [Functor, Applicatives and Monads in Plain English](http://www.russbishop.net/monoids-monads-and-functors)
 - `[2017-05-01 18:50]` [Write Code That is Easy to Delete, not Easy to Extend](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - `[2017-05-01 18:48]` [Why is SelectMany so Weird](http://joashc.github.io/posts/2016-03-17-select-many-weird.html)
