@@ -1,5 +1,7 @@
 ## My Bookmarks
 
+- `[2017-05-01 20:49]` [ML Dialects and Haskell: SML, OCaml, F#, Haskell](http://hyperpolyglot.org/ml)
+- `[2017-05-01 20:49]` [ML Dialects and Haskell: SML, OCaml, F#, Haskell](http://hyperpolyglot.org/ml)
 - `[2017-05-01 20:44]` [A Curated List of Awesome Haskell Frameworks Libraries and Softwares](https://github.com/uhub/awesome-haskell)
 - `[2017-05-01 20:39]` [Yet Antoher Resource for Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
 - `[2017-05-01 20:37]` [Functor, Applicatives and Monads in Plain English](http://www.russbishop.net/monoids-monads-and-functors)
