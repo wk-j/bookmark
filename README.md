@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-02 00:45]` [Why Does Haskell in Your Opinion Suck?](https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck)
 - `[2017-05-01 21:16]` [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
 - `[2017-05-01 20:49]` [ML Dialects and Haskell: SML, OCaml, F#, Haskell](http://hyperpolyglot.org/ml)
 - `[2017-05-01 20:44]` [A Curated List of Awesome Haskell Frameworks Libraries and Softwares](https://github.com/uhub/awesome-haskell)
