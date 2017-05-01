@@ -1,9 +1,5 @@
-## My Bookmark
+## My Bookmarks
 
-- `[2017-05-01 18:19]` [How to write haskell](https://google.com)
-- [2017-05-01 18:17] How to write haskell [https://google.com](https://google.com)
-- [2017-05-01 18:16] How to write haskell [https://google.com](https://google.com)
-- [2017-05-01 18:16] How to write haskell [https://google.com](https://google.com)
-- [2017-05-01 18:15] How to write haskell [https://google.com](https://google.com)
+- `[2017-05-01 18:24]` [A newcomer's run-in with lazy I/O](https://ianthehenry.com/2016/3/9/lazy-io/)
 
 
