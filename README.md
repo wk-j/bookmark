@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-02 20:45]` [The Indexed Continuation Monad in Haskell, Scala, and C#](https://gist.github.com/pthariensflame/5716594)
 - `[2017-05-02 20:35]` [Little Monad Library Designed for TypeScript](https://github.com/cbowdon/TsMonad)
 - `[2017-05-02 02:12]` [Six Programming Paradigms That Will Change How You Think About Programming](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will)
 - `[2017-05-02 00:45]` [Why Does Haskell in Your Opinion Suck?](https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck)
