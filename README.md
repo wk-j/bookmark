@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-03 21:25]` [I Tried Haskell for 5 Years and Here's How it Was](https://metarabbit.wordpress.com/2017/05/02/i-tried-haskell-for-5-years-and-heres-how-it-was)
 - `[2017-05-02 20:51]` [Functional Programming Concepts, Examples in Haskell, Ocaml and Python](https://github.com/caiorss/Functional-Programming)
 - `[2017-05-02 20:35]` [Little Monad Library Designed for TypeScript](https://github.com/cbowdon/TsMonad)
 - `[2017-05-02 02:12]` [Six Programming Paradigms That Will Change How You Think About Programming](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will)
