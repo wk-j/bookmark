@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-04 00:46]` [F# From a Haskell Perspective](http://neilmitchell.blogspot.com/2008/12/f-from-haskell-perspective.html)
 - `[2017-05-03 23:29]` [Recreating F# Maybe Computation Expression in C#](https://blog.neteril.org/blog/2017/04/26/maybe-computation-expression-csharp)
 - `[2017-05-03 22:23]` [Haskell Stack Mega-Tutorial](https://www.youtube.com/watch?v=sRonIB8ZStw)
 - `[2017-05-03 21:56]` [The Haskell Cheatsheet](http://cheatsheet.codeslower.com/CheatSheet.pdf)
