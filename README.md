@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-04 00:49]` [Haskell Function Composition (Forward Pipe) - Why Does This Work?](http://stackoverflow.com/questions/3322238/haskell-function-composition-forward-pipe-why-does-this-work)
 - `[2017-05-04 00:48]` [Haskell Composition(.) vs F# Pipe Forward Operator (|>)](http://stackoverflow.com/questions/1457140/haskell-composition-vs-fs-pipe-forward-operator)
 - `[2017-05-04 00:46]` [F# From a Haskell Perspective](http://neilmitchell.blogspot.com/2008/12/f-from-haskell-perspective.html)
 - `[2017-05-03 23:29]` [Recreating F# Maybe Computation Expression in C#](https://blog.neteril.org/blog/2017/04/26/maybe-computation-expression-csharp)
