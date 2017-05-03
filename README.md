@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-03 22:23]` [Haskell Stack Mega-Tutorial](https://www.youtube.com/watch?v=sRonIB8ZStw)
 - `[2017-05-03 21:56]` [The Haskell Cheatsheet](http://cheatsheet.codeslower.com/CheatSheet.pdf)
 - `[2017-05-03 21:25]` [I Tried Haskell for 5 Years and Here's How it Was](https://metarabbit.wordpress.com/2017/05/02/i-tried-haskell-for-5-years-and-heres-how-it-was)
 - `[2017-05-02 20:51]` [Functional Programming Concepts, Examples in Haskell, Ocaml and Python](https://github.com/caiorss/Functional-Programming)
