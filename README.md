@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-04 22:15]` [What's a Monad? Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell)
 - `[2017-05-04 21:56]` [Lifts for Free: Making MTL Typeclasses Derivable](https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable)
 - `[2017-05-04 02:20]` [Typeclasses in Translation](https://joyofhaskell.com/posts/2017-03-15-typeclasses-in-translation.html)
 - `[2017-05-04 00:49]` [Haskell Function Composition (Forward Pipe) - Why Does This Work?](http://stackoverflow.com/questions/3322238/haskell-function-composition-forward-pipe-why-does-this-work)
