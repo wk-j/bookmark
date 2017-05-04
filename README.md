@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-05 00:59]` [Null-Checking Considerations in F# - It's Harder Than You Think](http://latkin.org/blog/2015/05/18/null-checking-considerations-in-f-its-harder-than-you-think/)
 - `[2017-05-04 23:57]` [What I Wish I Know When Learning Haskell](http://dev.stephendiehl.com/hask)
 - `[2017-05-04 23:11]` [Practical Haskell Getting Started with Stack](http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html)
 - `[2017-05-04 22:15]` [What's a Monad? Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell)
