@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-05 18:59]` [Shake: Task Automation and Scripting in Haskell](https://blog.jle.im/entry/shake-task-automation-and-scripting-in-haskell.html)
 - `[2017-05-05 02:12]` [How to Use .NET Framework Libraries with ASP.NET Core](http://miniml.ist/dev/how-to-target-full-framework-on-dotnet-core)
 - `[2017-05-05 00:59]` [Null-Checking Considerations in F# - It's Harder Than You Think](http://latkin.org/blog/2015/05/18/null-checking-considerations-in-f-its-harder-than-you-think/)
 - `[2017-05-04 23:57]` [What I Wish I Know When Learning Haskell](http://dev.stephendiehl.com/hask)
