@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-05 19:37]` [24 Days of Hackage, 2015: Day 22: Shake: The Dynamic Build System](http://conscientiousprogrammer.com/blog/2015/12/22/24-days-of-hackage-2015-day-22-shake-the-dynamic-build-system)
 - `[2017-05-05 19:22]` [Verify your Typeclass Instances in Haskell Today!](https://blog.jle.im/entry/verified-instances-in-haskell.html)
 - `[2017-05-05 18:59]` [Shake: Task Automation and Scripting in Haskell](https://blog.jle.im/entry/shake-task-automation-and-scripting-in-haskell.html)
 - `[2017-05-05 02:12]` [How to Use .NET Framework Libraries with ASP.NET Core](http://miniml.ist/dev/how-to-target-full-framework-on-dotnet-core)
