@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-06 13:14]` [Haskell / Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory)
 - `[2017-05-06 13:11]` [Programming Haskell Doesn't Require Any Category Theory](http://fvisser.nl/post/2013/aug/6/programming-haskell-doesnt-require-any-category-theory.html)
 - `[2017-05-05 19:37]` [24 Days of Hackage, 2015: Day 22: Shake: The Dynamic Build System](http://conscientiousprogrammer.com/blog/2015/12/22/24-days-of-hackage-2015-day-22-shake-the-dynamic-build-system)
 - `[2017-05-05 19:22]` [Verify your Typeclass Instances in Haskell Today!](https://blog.jle.im/entry/verified-instances-in-haskell.html)
