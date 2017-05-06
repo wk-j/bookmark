@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-07 01:44]` [C# 7.0 and Beyond with Mads Torgersen](https://medium.com/@jakubgarfield/c-7-0-and-beyond-with-mads-torgersen-36c44a047024)
 - `[2017-05-07 00:33]` [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
 - `[2017-05-06 21:55]` [Higher-Kinded Polymerphism: What Is It, Why You Want It](https://sidburn.github.io/blog/2016/03/24/higher-kinded-polymorphism)
 - `[2017-05-06 21:52]` [LambdaConf 2015 - A Practical Introduction to Haskell GADTs Richard Eisenberg](https://www.youtube.com/watch?v=6snteFntvjM)
