@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-06 21:55]` [Higher-Kinded Polymerphism: What Is It, Why You Want It](https://sidburn.github.io/blog/2016/03/24/higher-kinded-polymorphism)
 - `[2017-05-06 21:52]` [LambdaConf 2015 - A Practical Introduction to Haskell GADTs Richard Eisenberg](https://www.youtube.com/watch?v=6snteFntvjM)
 - `[2017-05-06 20:52]` [Higher Kindended Types in F# - The Introduction](https://robkuz.github.io/Higher-kinded-types-in-fsharp-Intro-Part-I)
 - `[2017-05-06 13:14]` [Haskell / Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory)
