@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-06 21:52]` [LambdaConf 2015 - A Practical Introduction to Haskell GADTs Richard Eisenberg](https://www.youtube.com/watch?v=6snteFntvjM)
 - `[2017-05-06 20:52]` [Higher Kindended Types in F# - The Introduction](https://robkuz.github.io/Higher-kinded-types-in-fsharp-Intro-Part-I)
 - `[2017-05-06 13:14]` [Haskell / Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory)
 - `[2017-05-06 13:11]` [Programming Haskell Doesn't Require Any Category Theory](http://fvisser.nl/post/2013/aug/6/programming-haskell-doesnt-require-any-category-theory.html)
