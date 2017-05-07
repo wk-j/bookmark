@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-08 00:06]` [Improvements to Deriving in GHC 8.2](https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82)
 - `[2017-05-07 19:13]` [6.8.10. Module Signatures](https://downloads.haskell.org/~ghc/master/users-guide/separate_compilation.html#module-signatures)
 - `[2017-05-07 18:24]` [ML's Powerful Higher-Order Module System](http://flyingfrogblog.blogspot.com/2010/04/mls-powerful-higher-order-module-system.html)
 - `[2017-05-07 17:11]` [Functor, Applicative, and Monad](https://www.schoolofhaskell.com/school/advanced-haskell/functors-applicative-functors-and-monads)
