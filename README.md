@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-07 18:24]` [ML's Powerful Higher-Order Module System](http://flyingfrogblog.blogspot.com/2010/04/mls-powerful-higher-order-module-system.html)
 - `[2017-05-07 17:11]` [Functor, Applicative, and Monad](https://www.schoolofhaskell.com/school/advanced-haskell/functors-applicative-functors-and-monads)
 - `[2017-05-07 01:44]` [C# 7.0 and Beyond with Mads Torgersen](https://medium.com/@jakubgarfield/c-7-0-and-beyond-with-mads-torgersen-36c44a047024)
 - `[2017-05-07 00:33]` [Reflecting on Haskell in 2016](http://www.stephendiehl.com/posts/haskell_2017.html)
