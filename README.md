@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-09 02:04]` [Dialogues on Do Notation](https://joyofhaskell.com/posts/2017-05-07-do-notation.html)
 - `[2017-05-09 01:28]` [Why Elm? Robust, Functional Programming for the Web Frontend](http://www.oreilly.com/web-platform/free/files/why-elm.pdf)
 - `[2017-05-09 00:10]` [C# 7.0 and Beyond with Mads Torgersen](https://medium.com/@jakubgarfield/c-7-0-and-beyond-with-mads-torgersen-36c44a047024)
 - `[2017-05-08 01:05]` [What's a Monad? Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell)
