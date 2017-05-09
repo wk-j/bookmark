@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-09 23:34]` [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 - `[2017-05-09 13:46]` [GHC (STG,CMM,ASM) Illustrated for Hardware Persons](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
 - `[2017-05-09 02:04]` [Dialogues on Do Notation](https://joyofhaskell.com/posts/2017-05-07-do-notation.html)
 - `[2017-05-09 01:28]` [Why Elm? Robust, Functional Programming for the Web Frontend](http://www.oreilly.com/web-platform/free/files/why-elm.pdf)
