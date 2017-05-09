@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-10 01:36]` [Gallery of Programming Interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/preview?slide=id.g1da0625f1b_0_56)
 - `[2017-05-09 23:34]` [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 - `[2017-05-09 13:46]` [GHC (STG,CMM,ASM) Illustrated for Hardware Persons](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
 - `[2017-05-09 02:04]` [Dialogues on Do Notation](https://joyofhaskell.com/posts/2017-05-07-do-notation.html)
