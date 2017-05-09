@@ -1,8 +1,8 @@
 ## My Bookmarks
 
+- `[2017-05-09 13:46]` [GHC (STG,CMM,ASM) Illustrated for Hardware Persons](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
 - `[2017-05-09 02:04]` [Dialogues on Do Notation](https://joyofhaskell.com/posts/2017-05-07-do-notation.html)
 - `[2017-05-09 01:28]` [Why Elm? Robust, Functional Programming for the Web Frontend](http://www.oreilly.com/web-platform/free/files/why-elm.pdf)
-- `[2017-05-09 00:10]` [C# 7.0 and Beyond with Mads Torgersen](https://medium.com/@jakubgarfield/c-7-0-and-beyond-with-mads-torgersen-36c44a047024)
 - `[2017-05-08 01:05]` [What's a Monad? Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell)
 - `[2017-05-08 00:06]` [Improvements to Deriving in GHC 8.2](https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82)
 - `[2017-05-07 19:13]` [6.8.10. Module Signatures](https://downloads.haskell.org/~ghc/master/users-guide/separate_compilation.html#module-signatures)
