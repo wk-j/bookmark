@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-14 00:25]` [Case Expressions and Pattern Matching](https://www.haskell.org/tutorial/patterns.html)
 - `[2017-05-12 01:52]` [2 + 2 = 5 and Why Compiler Warnings are Good](https://medium.com/position-development-blog/2-2-5-and-why-compiler-warnings-are-good-e50bc5cfab22)
 - `[2017-05-11 20:05]` [Monads, Haskell, and Elm: A Socratic Dialogue](https://medium.com/@dailydrip/monads-haskell-and-elm-a-socratic-dialogue-c0a1b4f6acb2)
 - `[2017-05-11 19:28]` [Features Added in C# Language Versions](https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md)
