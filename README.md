@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-14 17:43]` [Types & Kinds](http://slpopejoy.github.io/posts/2015-04-10-Types.html)
 - `[2017-05-14 03:07]` [24 Days of GHC Extensions: Bang Patterns](https://ocharles.org.uk/blog/posts/2014-12-05-bang-patterns.html)
 - `[2017-05-14 00:25]` [Case Expressions and Pattern Matching](https://www.haskell.org/tutorial/patterns.html)
 - `[2017-05-12 01:52]` [2 + 2 = 5 and Why Compiler Warnings are Good](https://medium.com/position-development-blog/2-2-5-and-why-compiler-warnings-are-good-e50bc5cfab22)
