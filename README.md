@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-16 23:43]` [How to Write Unmaintainable Haskell Code](https://github.com/quchen/articles/blob/master/unmaintainable_haskell.md)
 - `[2017-05-16 20:32]` [On Type Class Instance Selection](https://hackernoon.com/typeclass-instance-selection-fea1068920e6)
 - `[2017-05-15 17:53]` [A Taste of Haskell](https://hookrace.net/blog/a-taste-of-haskell)
 - `[2017-05-14 18:10]` [Haskell is Not For Production and Other Tales](https://www.youtube.com/watch?v=mlTO510zO78)
