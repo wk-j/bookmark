@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-16 20:32]` [On Type Class Instance Selection](https://hackernoon.com/typeclass-instance-selection-fea1068920e6)
 - `[2017-05-15 17:53]` [A Taste of Haskell](https://hookrace.net/blog/a-taste-of-haskell)
 - `[2017-05-14 18:10]` [Haskell is Not For Production and Other Tales](https://www.youtube.com/watch?v=mlTO510zO78)
 - `[2017-05-14 17:43]` [Types & Kinds](http://slpopejoy.github.io/posts/2015-04-10-Types.html)
