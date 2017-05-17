@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-17 20:11]` [From .NET to Scala and Beyond: a Journey to Functional Programming](http://hmemcpy.com/2017/05/from-net-to-scala-and-beyond-a-journey-to-functional-programming)
 - `[2017-05-16 23:43]` [How to Write Unmaintainable Haskell Code](https://github.com/quchen/articles/blob/master/unmaintainable_haskell.md)
 - `[2017-05-16 20:32]` [On Type Class Instance Selection](https://hackernoon.com/typeclass-instance-selection-fea1068920e6)
 - `[2017-05-15 17:53]` [A Taste of Haskell](https://hookrace.net/blog/a-taste-of-haskell)
