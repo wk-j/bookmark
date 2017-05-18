@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-18 19:49]` [Minimal Cabal Files](https://jpvillaisaza.github.io/2017/03/14/minimal-cabal-files)
 - `[2017-05-18 19:00]` [Why Isn’t F# the King of .NET?](https://hackernoon.com/why-isnt-f-the-king-of-net-2a9a1963e087)
 - `[2017-05-17 20:17]` [Locked Doors, Headaches, and Intellectual Need](https://mkremins.github.io/blog/doors-headaches-intellectual-need)
 - `[2017-05-17 20:11]` [From .NET to Scala and Beyond: a Journey to Functional Programming](http://hmemcpy.com/2017/05/from-net-to-scala-and-beyond-a-journey-to-functional-programming)
