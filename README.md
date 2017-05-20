@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-20 18:39]` [Fish Shell Completions](https://github.com/fish-shell/fish-shell/tree/master/share/completions)
 - `[2017-05-20 18:17]` [Chapter 6. Using Typeclasses](http://book.realworldhaskell.org/read/using-typeclasses.html)
 - `[2017-05-18 19:49]` [Minimal Cabal Files](https://jpvillaisaza.github.io/2017/03/14/minimal-cabal-files)
 - `[2017-05-18 19:00]` [Why Isn’t F# the King of .NET?](https://hackernoon.com/why-isnt-f-the-king-of-net-2a9a1963e087)
