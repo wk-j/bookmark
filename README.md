@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-21 18:23]` [Algebraic Patterns — Semigroup](https://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)
 - `[2017-05-21 05:00]` [Escaping Hell with Monads](https://philipnilsson.github.io/Badness10k/posts/2017-05-07-escaping-hell-with-monads.html)
 - `[2017-05-20 18:39]` [Fish Shell Completions](https://github.com/fish-shell/fish-shell/tree/master/share/completions)
 - `[2017-05-20 18:17]` [Chapter 6. Using Typeclasses](http://book.realworldhaskell.org/read/using-typeclasses.html)
