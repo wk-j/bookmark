@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-22 03:54]` [Day 1: IO — Our Ugly Friend](https://medium.com/twelve-days-of-monad/day-1-io-our-ugly-friend-e9ddfc621978)
 - `[2017-05-22 01:43]` [Formatting in Haskell](http://chrisdone.com/posts/formatting)
 - `[2017-05-22 00:37]` [Formatting: Type-Safe Printf Like Library](https://www.reddit.com/r/haskell/comments/291wel/formatting_typesafe_printflike_library_by)
 - `[2017-05-21 18:36]` [Programming With Types, Not Tutorials](https://www.schoolofhaskell.com/user/chowells79/types-not-tutorials)
