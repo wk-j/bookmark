@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-22 00:37]` [Formatting: Type-Safe Printf Like Library](https://www.reddit.com/r/haskell/comments/291wel/formatting_typesafe_printflike_library_by)
 - `[2017-05-21 18:36]` [Programming With Types, Not Tutorials](https://www.schoolofhaskell.com/user/chowells79/types-not-tutorials)
 - `[2017-05-21 18:23]` [Algebraic Patterns — Semigroup](https://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)
 - `[2017-05-21 05:00]` [Escaping Hell with Monads](https://philipnilsson.github.io/Badness10k/posts/2017-05-07-escaping-hell-with-monads.html)
