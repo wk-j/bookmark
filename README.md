@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-22 19:44]` [Fun with Pure C# and Monads](https://blogs.msdn.microsoft.com/alazarev/2017/05/20/fun-with-pure-c-and-monads)
 - `[2017-05-22 19:40]` [On Strongly Typed Languages](http://perl.plover.com/yak/12views/samples/slide045.html)
 - `[2017-05-22 13:17]` [On Ad-hoc Datatypes](https://jaspervdj.be/posts/2016-05-11-ad-hoc-datatypes.html)
 - `[2017-05-22 03:54]` [Day 1: IO — Our Ugly Friend](https://medium.com/twelve-days-of-monad/day-1-io-our-ugly-friend-e9ddfc621978)
