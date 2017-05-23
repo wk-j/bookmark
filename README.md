@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-24 02:41]` [Delude](https://github.com/SamuelSchlesinger/Academic/tree/master/delude)
 - `[2017-05-22 20:36]` [What is the Coolest Snippet of Haskell Code](https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code)
 - `[2017-05-22 19:44]` [Fun with Pure C# and Monads](https://blogs.msdn.microsoft.com/alazarev/2017/05/20/fun-with-pure-c-and-monads)
 - `[2017-05-22 19:40]` [On Strongly Typed Languages](http://perl.plover.com/yak/12views/samples/slide045.html)
