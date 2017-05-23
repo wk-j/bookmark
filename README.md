@@ -1,6 +1,6 @@
 ## My Bookmarks
 
-- `[2017-05-24 03:14]` [Annoy Haskell in One Sentence](https://www.reddit.com/r/haskell/comments/4ooive/annoy_rhaskell_in_one_sentence)
+- `[2017-05-24 03:17]` [First-Class Sums and Products](https://nikita-volkov.github.io/first-class-sums-and-products)
 - `[2017-05-24 02:44]` [Annoy Haskell in One Sentence](https://www.reddit.com/r/haskell/comments/4ooive/annoy_rhaskell_in_one_sentence)
 - `[2017-05-24 02:41]` [Delude](https://github.com/SamuelSchlesinger/Academic/tree/master/delude)
 - `[2017-05-22 20:36]` [What is the Coolest Snippet of Haskell Code](https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code)
