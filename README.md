@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-25 01:18]` [Haskell Pitfalls](https://lorepub.com/post/2016-12-17-Haskell-Pitfalls)
 - `[2017-05-25 01:16]` [24 Days of PureScript](https://github.com/paf31/24-days-of-purescript-2016)
 - `[2017-05-24 14:43]` [TYPES](https://www.destroyallsoftware.com/compendium/types/abcdb4475aa834bf)
 - `[2017-05-24 03:25]` [The Base of a String Theory for Haskell](http://blog.ezyang.com/2016/09/the-base-of-a-string-theory-for-haskell)
