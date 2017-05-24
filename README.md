@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-24 14:43]` [TYPES](https://www.destroyallsoftware.com/compendium/types/abcdb4475aa834bf)
 - `[2017-05-24 03:25]` [The Base of a String Theory for Haskell](http://blog.ezyang.com/2016/09/the-base-of-a-string-theory-for-haskell)
 - `[2017-05-24 03:17]` [First-Class Sums and Products](https://nikita-volkov.github.io/first-class-sums-and-products)
 - `[2017-05-24 02:44]` [Annoy Haskell in One Sentence](https://www.reddit.com/r/haskell/comments/4ooive/annoy_rhaskell_in_one_sentence)
