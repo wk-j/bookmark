@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-26 02:33]` [High-Performance Haskell](https://www.slideshare.net/tibbe/highperformance-haskell)
 - `[2017-05-26 02:20]` [Comparing Haskell and Scala](https://www.slideshare.net/MartinOckajak/comparing-haskell-and-scala)
 - `[2017-05-26 00:51]` [Inline Fun Part IV – Type Classes for F#](http://nut-cracker.azurewebsites.net/blog/2011/11/15/typeclasses-for-fsharp)
 - `[2017-05-26 00:19]` [Ad-hoc Polymorephism in F# (How .. Without Type Classes)](http://withouttheloop.com/articles/2014-10-21-fsharp-adhoc-polymorphism)
