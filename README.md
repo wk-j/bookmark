@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-26 00:19]` [Ad-hoc Polymorephism in F# (How .. Without Type Classes](http://withouttheloop.com/articles/2014-10-21-fsharp-adhoc-polymorphism)
 - `[2017-05-25 12:18]` [What I Want from a Type System](https://gist.github.com/halgari/f431b2d1094e4ec1e933969969489854)
 - `[2017-05-25 01:18]` [Haskell Pitfalls](https://lorepub.com/post/2016-12-17-Haskell-Pitfalls)
 - `[2017-05-25 01:16]` [24 Days of PureScript](https://github.com/paf31/24-days-of-purescript-2016)
