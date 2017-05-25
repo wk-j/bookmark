@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-25 12:18]` [What I Want from a Type System](https://gist.github.com/halgari/f431b2d1094e4ec1e933969969489854)
 - `[2017-05-25 01:18]` [Haskell Pitfalls](https://lorepub.com/post/2016-12-17-Haskell-Pitfalls)
 - `[2017-05-25 01:16]` [24 Days of PureScript](https://github.com/paf31/24-days-of-purescript-2016)
 - `[2017-05-24 14:43]` [TYPES](https://www.destroyallsoftware.com/compendium/types/abcdb4475aa834bf)
