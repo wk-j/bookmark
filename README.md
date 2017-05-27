@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-27 23:47]` [Ian Preston: The Fish Shell](https://www.youtube.com/watch?v=3DVUeLaI9so)
 - `[2017-05-26 23:12]` [Freely Available Programming Books](https://github.com/vhf/free-programming-books)
 - `[2017-05-26 17:25]` [Type Classes in F#](https://fpish.net/topic/None/59738)
 - `[2017-05-26 02:33]` [High-Performance Haskell](https://www.slideshare.net/tibbe/highperformance-haskell)
