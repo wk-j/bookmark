@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-28 23:46]` [Maybe Haskell?](http://withouttheloop.com/articles/2013-05-19-maybe-haskell)
 - `[2017-05-28 04:36]` [Needle: ASCII-fied Arrow Notation](http://scrambledeggsontoast.github.io/2014/09/28/needle-announce/)
 - `[2017-05-27 23:47]` [Ian Preston: The Fish Shell](https://www.youtube.com/watch?v=3DVUeLaI9so)
 - `[2017-05-26 23:12]` [Freely Available Programming Books](https://github.com/vhf/free-programming-books)
