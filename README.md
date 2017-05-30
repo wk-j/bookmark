@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-31 02:12]` [Object Initialization Syntax](https://stackoverflow.com/questions/371878/object-initialization-syntax)
 - `[2017-05-31 01:47]` [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - `[2017-05-31 01:45]` [To Haskell or To OCaml](https://www.reddit.com/r/haskell/comments/6didpj/to_haskell_or_to_ocaml/)
 - `[2017-05-30 23:24]` [Typing Haskell: Working with JSON](https://medium.com/@peteryhwong/typing-haskell-working-with-json-98715c22f289)
