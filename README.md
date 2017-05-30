@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-30 20:45]` [Simple Made Easy](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)
 - `[2017-05-30 20:40]` [Lessons Learned: Avoiding Primitives in Elm](https://robots.thoughtbot.com/lessons-learned-avoiding-primitives-in-elm)
 - `[2017-05-29 23:51]` [Code Inspection: Delegate Subtractions](https://www.jetbrains.com/help/resharper/2017.1/DelegateSubtraction.html)
 - `[2017-05-29 22:09]` [Monads and Comonads and LINQ Oh My!](http://davesexton.com/blog/post/monads-and-comonads-and-linq-oh-my.aspx)
