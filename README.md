@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-05-30 22:12]` [Using Polly with F# Async Workflows](http://blog.ploeh.dk/2017/05/30/using-polly-with-f-async-workflows)
 - `[2017-05-30 20:45]` [Simple Made Easy](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)
 - `[2017-05-30 20:40]` [Lessons Learned: Avoiding Primitives in Elm](https://robots.thoughtbot.com/lessons-learned-avoiding-primitives-in-elm)
 - `[2017-05-29 23:51]` [Code Inspection: Delegate Subtractions](https://www.jetbrains.com/help/resharper/2017.1/DelegateSubtraction.html)
