@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-05 19:38]` [View Patterns as Pattern Matching for Records](https://cdsmith.wordpress.com/2009/10/04/view-patterns-as-pattern-matching-for-records)
 - `[2017-06-05 15:11]` [Don't Repeat Certain Operation](https://gist.github.com/jb55/8286119)
 - `[2017-06-05 12:45]` [A Quick Look at Haskell Views](http://langexplr.blogspot.com/2012/09/a-quick-look-at-haskell-views.html)
 - `[2017-06-05 11:33]` [View Patterns: Lightweight Views for Haskell](https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns)
