@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-05 11:33]` [View Patterns: Lightweight Views for Haskell](https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns)
 - `[2017-06-04 20:47]` [Pattern Synonyms for Dates and an IRC Bot](https://www.schoolofhaskell.com/user/icelandj/Pattern%20synonyms)
 - `[2017-06-04 20:19]` [Reviewing View Patterns](http://neilmitchell.blogspot.com/2009/11/reviewing-view-patterns.html)
 - `[2017-06-04 11:47]` [Haskell Representation of F#-style Actives Patterns](https://www.reddit.com/r/haskell/comments/3huexy/what_are_haskellers_critiques_of_f_and_ocaml/cuisrmj)
