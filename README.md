@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-05 15:11]` [Don't Repeat Certain Operation](https://gist.github.com/jb55/8286119)
 - `[2017-06-05 12:45]` [A Quick Look at Haskell Views](http://langexplr.blogspot.com/2012/09/a-quick-look-at-haskell-views.html)
 - `[2017-06-05 11:33]` [View Patterns: Lightweight Views for Haskell](https://ghc.haskell.org/trac/ghc/wiki/ViewPatterns)
 - `[2017-06-04 20:47]` [Pattern Synonyms for Dates and an IRC Bot](https://www.schoolofhaskell.com/user/icelandj/Pattern%20synonyms)
