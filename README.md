@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-07 01:29]` [A Type for Plain Text](https://medium.com/@jonathangfischoff/a-type-for-plain-text-4de400ed205a)
 - `[2017-06-07 00:57]` [Understanding Continuations](https://www.schoolofhaskell.com/user/jwiegley/understanding-continuations)
 - `[2017-06-06 00:46]` [Extensible Pattern Matching Via a Lightweight Language
 Extension](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p29-syme.pdf)
