@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-08 01:39]` [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - `[2017-06-08 00:38]` [?? Operator in F#](https://troykershaw.com/null-coalescing-operator-in-fsharp-but-for-options)
 - `[2017-06-07 23:59]` [C# 6.0 Functional Language Extensions (louthy/language-ext)](http://uberscraper.blogspot.com/2014/11/c-60-functional-language-extensions.html)
 - `[2017-06-07 03:20]` [Functors, Applicatives, and Monads in Pictures](https://www.reddit.com/r/programming/comments/1cobpl/functors_applicatives_and_monads_in_pictures/)
