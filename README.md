@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-08 19:16]` [What Are Arrows and How Can I Use Then?](https://stackoverflow.com/questions/4191424/what-are-arrows-and-how-can-i-use-them)
 - `[2017-06-08 13:12]` [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 - `[2017-06-08 01:39]` [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - `[2017-06-08 00:38]` [?? Operator in F#](https://troykershaw.com/null-coalescing-operator-in-fsharp-but-for-options)
