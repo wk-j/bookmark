@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-10 02:30]` [Either and (,) in Haskell are Not Arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
 - `[2017-06-08 23:30]` [What is The Purpose of Arrows](https://softwareengineering.stackexchange.com/questions/114681/what-is-the-purpose-of-arrows)
 - `[2017-06-08 23:16]` [Haskell/Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows)
 - `[2017-06-08 19:21]` [Fanout](http://gusty.github.io/FSharpPlus/reference/fscontrol-fanout.html)
