@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-10 22:53]` [Applicative Functors](http://blog.ezyang.com/2012/08/applicative-functors)
 - `[2017-06-10 14:25]` [How to Script with Stack](https://haskell-lang.org/tutorial/stack-script)
 - `[2017-06-10 02:30]` [Either and (,) in Haskell are Not Arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
 - `[2017-06-08 23:30]` [What is The Purpose of Arrows](https://softwareengineering.stackexchange.com/questions/114681/what-is-the-purpose-of-arrows)
