@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-13 02:56]` [Operator Precedence F# and Haskell](http://kevincantu.org/code/operators.html)
 - `[2017-06-11 21:18]` [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 - `[2017-06-11 19:09]` [Notes on Haskell Functors and F#](http://bugsquash.blogspot.com/2010/12/notes-on-haskell-functors-and-f.html)
 - `[2017-06-10 22:54]` [Applicative Functors: Definition and Syntax](http://tomasp.net/blog/applicative-functors.aspx)
