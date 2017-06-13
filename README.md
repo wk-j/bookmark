@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-13 23:38]` [Some Applicative Functors](https://chris-martin.org/2017/some-applicative-functors)
 - `[2017-06-13 23:35]` [Applicatives and Alternatives](https://queertypes.com/posts/59-applicatives-alternatives.html)
 - `[2017-06-13 23:30]` [Controlling Fusion In Haskell](http://jyp.github.io/posts/controlled-fusion.html)
 - `[2017-06-13 02:56]` [Operator Precedence F# and Haskell](http://kevincantu.org/code/operators.html)
