@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-14 01:18]` [Ternary](https://twitter.com/queertypes/status/532748228358193152)
 - `[2017-06-14 01:14]` [How Can (<$>) Be Left Associative](https://stackoverflow.com/questions/43427351/how-can-be-left-associative)
 - `[2017-06-13 23:38]` [Some Applicative Functors](https://chris-martin.org/2017/some-applicative-functors)
 - `[2017-06-13 23:35]` [Applicatives and Alternatives](https://queertypes.com/posts/59-applicatives-alternatives.html)
