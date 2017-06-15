@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-15 12:36]` [Infix Type Constructors](https://downloads.haskell.org/~ghc/7.2.1/docs/html/users_guide/data-type-extensions.html#infix-tycons)
 - `[2017-06-15 11:52]` [Haskell Data :> Constructor Meaning](https://stackoverflow.com/questions/19197339/haskell-data-constructor-meaning)
 - `[2017-06-15 00:10]` [Crazy Things You Can Do With F# Ternary Operator](http://alxandr.me/2016/08/31/crazy-things-you-can-do-with-the-f-ternary-operator)
 - `[2017-06-15 00:06]` [Ternary Operator](https://wiki.haskell.org/Ternary_operator)
