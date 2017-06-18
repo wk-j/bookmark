@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-18 13:24]` [Functional Programming Babelfish](https://hakonrossebo.github.io/functional-programming-babelfish/)
 - `[2017-06-16 01:40]` [What are Haskellers' Critiques of F# and OCaml?](https://www.reddit.com/r/haskell/comments/3huexy/what_are_haskellers_critiques_of_f_and_ocaml)
 - `[2017-06-15 21:56]` [10 Things Idris Improved Over Haskell](https://deque.blog/2017/06/14/10-things-idris-improved-over-haskell)
 - `[2017-06-15 12:57]` [Infix Constructors](https://books.google.co.th/books?id=lQbth9j5j9oC&pg=PA85&lpg=PA85&dq=haskell%20infix%20constructors&source=bl&ots=JRku07v3OC&sig=6DA2-e6KHjYorg46RN1_DkZrbug&hl=en&sa=X&ved=0ahUKEwiPhIedib_UAhUEuI8KHUtzBNgQ6AEIWjAI#v=onepage&q=haskell%20infix%20constructors&f=false)
