@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-20 00:22]` [Functional C# (9) Function Composition and Chaining](https://weblogs.asp.net/dixin/functional-csharp-function-composition-and-method-chaining)
 - `[2017-06-18 13:24]` [Functional Programming Babelfish](https://hakonrossebo.github.io/functional-programming-babelfish/)
 - `[2017-06-16 01:40]` [What are Haskellers' Critiques of F# and OCaml?](https://www.reddit.com/r/haskell/comments/3huexy/what_are_haskellers_critiques_of_f_and_ocaml)
 - `[2017-06-15 21:56]` [10 Things Idris Improved Over Haskell](https://deque.blog/2017/06/14/10-things-idris-improved-over-haskell)
