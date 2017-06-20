@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-21 00:56]` [Pure Attribute](https://www.jetbrains.com/help/resharper/2017.1/Reference__Code_Annotation_Attributes.html#PureAttribute)
 - `[2017-06-20 11:37]` [An Alternative Definition of Haskell's Functor Typeclass](https://github.com/rampion/kinder-functor)
 - `[2017-06-20 00:22]` [Functional C# (9) Function Composition and Chaining](https://weblogs.asp.net/dixin/functional-csharp-function-composition-and-method-chaining)
 - `[2017-06-18 13:24]` [Functional Programming Babelfish](https://hakonrossebo.github.io/functional-programming-babelfish/)
