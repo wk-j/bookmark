@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-22 00:23]` [Programming in The Point-Free Style](https://eiriktsarpalis.wordpress.com/2017/04/02/programming-in-the-point-free-style/)
 - `[2017-06-21 23:08]` [What to You Think About F# Piping Operator in Prelude.hs](https://www.reddit.com/r/haskell/comments/2xmp9j/what_to_you_think_about_the_fsharp_piping)
 - `[2017-06-21 22:33]` [Customer Operators, Associativity and Precedence in F#](http://www.readcopyupdate.com/blog/2014/09/10/custom-ops-associativity-precedence.html)
 - `[2017-06-21 14:17]` [Why PureScript?](https://www.reddit.com/r/purescript/comments/6g6brx/why_purescript/)
