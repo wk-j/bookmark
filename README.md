@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-21 22:33]` [Customer Operators, Associativity and Precedence in F#](http://www.readcopyupdate.com/blog/2014/09/10/custom-ops-associativity-precedence.html)
 - `[2017-06-21 14:17]` [Why PureScript?](https://www.reddit.com/r/purescript/comments/6g6brx/why_purescript/)
 - `[2017-06-21 02:41]` [Possible Regression Op Dynamic](https://github.com/Microsoft/visualfsharp/issues/2416)
 - `[2017-06-21 00:56]` [Pure Attribute](https://www.jetbrains.com/help/resharper/2017.1/Reference__Code_Annotation_Attributes.html#PureAttribute)
