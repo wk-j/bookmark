@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-23 13:49]` [Interface and Typeclasses: Number APIs in C# and Haskell](https://mzabani.wordpress.com/2017/06/22/interfaces-and-typeclasses-number-apis-in-c-and-haskell)
 - `[2017-06-22 00:23]` [Programming in The Point-Free Style](https://eiriktsarpalis.wordpress.com/2017/04/02/programming-in-the-point-free-style/)
 - `[2017-06-21 23:08]` [What to You Think About F# Piping Operator in Prelude.hs](https://www.reddit.com/r/haskell/comments/2xmp9j/what_to_you_think_about_the_fsharp_piping)
 - `[2017-06-21 22:33]` [Customer Operators, Associativity and Precedence in F#](http://www.readcopyupdate.com/blog/2014/09/10/custom-ops-associativity-precedence.html)
