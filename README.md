@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-23 17:35]` [Why is F#’s Type Inference So Fickle?](https://stackoverflow.com/questions/3162387/why-is-fs-type-inference-so-fickle)
 - `[2017-06-23 17:32]` [F#, Nominative or Structural?](https://stackoverflow.com/questions/3137512/f-nominative-or-structural)
 - `[2017-06-23 13:49]` [Interface and Typeclasses: Number APIs in C# and Haskell](https://mzabani.wordpress.com/2017/06/22/interfaces-and-typeclasses-number-apis-in-c-and-haskell)
 - `[2017-06-22 00:23]` [Programming in The Point-Free Style](https://eiriktsarpalis.wordpress.com/2017/04/02/programming-in-the-point-free-style/)
