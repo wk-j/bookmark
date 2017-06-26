@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-27 02:07]` [langref.org - Haskell and Fsharp](http://langref.org/haskell+fsharp/all)
 - `[2017-06-23 17:35]` [Why is F#’s Type Inference So Fickle?](https://stackoverflow.com/questions/3162387/why-is-fs-type-inference-so-fickle)
 - `[2017-06-23 17:32]` [F#, Nominative or Structural?](https://stackoverflow.com/questions/3137512/f-nominative-or-structural)
 - `[2017-06-23 13:49]` [Interface and Typeclasses: Number APIs in C# and Haskell](https://mzabani.wordpress.com/2017/06/22/interfaces-and-typeclasses-number-apis-in-c-and-haskell)
