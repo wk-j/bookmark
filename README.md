@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-27 23:36]` [Language Compare F#, Ocaml, Scala, Clojure, Ruby and Haskell - Simple AST Example](https://gist.github.com/ckirkendall/2934374/aa564c73765cde08648eebcf3e97886ade742c47)
 - `[2017-06-27 19:30]` [10 TypeScript Features You Might Not Know](https://moin.world/2017/06/18/10-TypeScript-Features-You-Might-Not-Know/)
 - `[2017-06-27 02:07]` [langref.org - Haskell and Fsharp](http://langref.org/haskell+fsharp/all)
 - `[2017-06-23 17:35]` [Why is F#’s Type Inference So Fickle?](https://stackoverflow.com/questions/3162387/why-is-fs-type-inference-so-fickle)
