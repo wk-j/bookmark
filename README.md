@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-06-29 02:47]` [When to Unit Test in F#](https://cockneycoder.wordpress.com/2017/06/12/when-to-unit-test-in-f/)
 - `[2017-06-29 02:03]` [C# 7.x and 8.0: Uncertainty and Awesomeness](https://www.erikheemskerk.nl/c-sharp-7-2-and-8-0-uncertainty-awesomeness)
 - `[2017-06-29 01:49]` [Functional C#](http://codingsight.com/functional-c)
 - `[2017-06-28 17:29]` [Pure Times in Haskell](http://blog.ploeh.dk/2017/06/28/pure-times-in-haskell)
