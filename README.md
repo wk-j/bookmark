@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-01 01:10]` [Moands Are Hard Because ...](https://www.johndcook.com/blog/2014/03/03/monads-are-hard-because/)
 - `[2017-06-29 22:54]` [Refactoring with Loops and Collection Pipelines](https://martinfowler.com/articles/refactoring-pipelines.html)
 - `[2017-06-29 21:56]` [Where Can I Learn Abount Function Naming Conventions?](https://www.reddit.com/r/haskell/comments/4wve9p/where_can_i_learn_about_function_naming)
 - `[2017-06-29 11:26]` [F# Typeclasses Agnostic](https://github.com/SteveGilham/fsharp-typeclasses.agnostic)
