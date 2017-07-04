@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-05 02:36]` [The Parallel Functional Pipeline Pattern](http://freecontent.manning.com/the-parallel-functional-pipeline-pattern/)
 - `[2017-07-05 00:53]` [Glassery an Optics Zoo](http://oleg.fi/gists/posts/2017-04-18-glassery.html)
 - `[2017-07-03 03:44]` [Head and Tail-like Methods in C#](https://www.tabsoverspaces.com/233633-head-and-tail-like-methods-on-list-in-csharp-and-fsharp-and-python-and-haskell)
 - `[2017-07-01 01:10]` [Monads Are Hard Because ...](https://www.johndcook.com/blog/2014/03/03/monads-are-hard-because/)
