@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-05 00:51]` [Glassery: an optics zoo](https://twitter.com/phadej/status/854293677623177216)
 - `[2017-07-03 03:44]` [Head and Tail-like Methods in C#](https://www.tabsoverspaces.com/233633-head-and-tail-like-methods-on-list-in-csharp-and-fsharp-and-python-and-haskell)
 - `[2017-07-01 01:10]` [Monads Are Hard Because ...](https://www.johndcook.com/blog/2014/03/03/monads-are-hard-because/)
 - `[2017-06-29 22:54]` [Refactoring with Loops and Collection Pipelines](https://martinfowler.com/articles/refactoring-pipelines.html)
