@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-06 20:37]` [10 Tips for Productive F# Scripting](http://brandewinder.com/2016/02/06/10-fsharp-scripting-tips)
 - `[2017-07-05 19:30]` [F# The Pit of Success - Issaac Abraham](http://pitofsuccess.azurewebsites.net)
 - `[2017-07-05 02:36]` [The Parallel Functional Pipeline Pattern](http://freecontent.manning.com/the-parallel-functional-pipeline-pattern/)
 - `[2017-07-05 00:53]` [Glassery an Optics Zoo](http://oleg.fi/gists/posts/2017-04-18-glassery.html)
