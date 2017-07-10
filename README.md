@@ -1,5 +1,9 @@
 ## My Bookmarks
 
+- `[2017-07-10 19:03]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
+- `[2017-07-10 19:02]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
+- `[2017-07-10 19:02]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
+- `[2017-07-10 19:01]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
 - `[2017-07-08 02:54]` [Foldr in C#](http://raol.github.io/2014/11/06/foldr-in-c)
 - `[2017-07-07 21:36]` [The Best Functional Programming Blogs And How To Get Started](https://medium.com/@FunctionalWorks/the-best-functional-programming-blogs-49303cc701b5)
 - `[2017-07-06 20:37]` [10 Tips for Productive F# Scripting](http://brandewinder.com/2016/02/06/10-fsharp-scripting-tips)
