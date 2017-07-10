@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-10 19:04]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
 - `[2017-07-10 19:03]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
 - `[2017-07-10 19:02]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
 - `[2017-07-10 19:02]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
