@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-11 19:13]` [Chained Null Checks And The Maybe Monad](https://www.codeproject.com/Articles/109026/Chained-null-checks-and-the-Maybe-monad)
 - `[2017-07-11 18:55]` [Null Has No Type, But Maybe Has](http://blog.ploeh.dk/2015/11/13/null-has-no-type-but-maybe-has)
 - `[2017-07-10 20:08]` [String = String + Int: What's Behind The Scenes?](https://stackoverflow.com/questions/3398604/string-string-int-whats-behind-the-scenes)
 - `[2017-07-10 19:01]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
