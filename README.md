@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-11 18:55]` [Null Has No Type, But Maybe Has](http://blog.ploeh.dk/2015/11/13/null-has-no-type-but-maybe-has)
 - `[2017-07-10 20:08]` [String = String + Int: What's Behind The Scenes?](https://stackoverflow.com/questions/3398604/string-string-int-whats-behind-the-scenes)
 - `[2017-07-10 19:01]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
 - `[2017-07-08 02:54]` [Foldr in C#](http://raol.github.io/2014/11/06/foldr-in-c)
