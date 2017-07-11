@@ -1,5 +1,7 @@
 ## My Bookmarks
 
+- `[2017-07-12 00:17]` [What Are Free Monads?](https://stackoverflow.com/questions/13352205/what-are-free-monads)
+- `[2017-07-11 22:46]` [Hello, Pure Command-Line Interactive](http://blog.ploeh.dk/2017/07/11/hello-pure-command-line-interaction)
 - `[2017-07-10 20:08]` [String = String + Int: What's Behind The Scenes?](https://stackoverflow.com/questions/3398604/string-string-int-whats-behind-the-scenes)
 - `[2017-07-10 19:01]` [Are There Pronounceable Names for Common Haskell Operators?](https://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
 - `[2017-07-08 02:54]` [Foldr in C#](http://raol.github.io/2014/11/06/foldr-in-c)
