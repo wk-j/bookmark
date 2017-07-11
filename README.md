@@ -1,6 +1,6 @@
 ## My Bookmarks
 
-- `[2017-07-11 18:51]` [Null Has No Type, But Maybe Has](http://blog.ploeh.dk/2015/11/13/null-has-no-type-but-maybe-has)
+- `[2017-07-11 18:52]` [Null Has No Type, But Maybe Has](http://blog.ploeh.dk/2015/11/13/null-has-no-type-but-maybe-has)
 - `[2017-07-08 02:54]` [Foldr in C#](http://raol.github.io/2014/11/06/foldr-in-c)
 - `[2017-07-07 21:36]` [The Best Functional Programming Blogs And How To Get Started](https://medium.com/@FunctionalWorks/the-best-functional-programming-blogs-49303cc701b5)
 - `[2017-07-06 20:37]` [10 Tips for Productive F# Scripting](http://brandewinder.com/2016/02/06/10-fsharp-scripting-tips)
