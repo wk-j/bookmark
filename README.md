@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-12 00:46]` [What Is The Free Monad + Interpreter Pattern?](https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern)
 - `[2017-07-12 00:17]` [What Are Free Monads?](https://stackoverflow.com/questions/13352205/what-are-free-monads)
 - `[2017-07-11 22:46]` [Hello, Pure Command-Line Interactive](http://blog.ploeh.dk/2017/07/11/hello-pure-command-line-interaction)
 - `[2017-07-11 19:13]` [Chained Null Checks And The Maybe Monad](https://www.codeproject.com/Articles/109026/Chained-null-checks-and-the-Maybe-monad)
