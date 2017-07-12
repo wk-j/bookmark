@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-13 02:40]` [Lazy Evaluation in C#](https://xosfaere.wordpress.com/2010/03/21/lazy-evaluation-in-csharp)
 - `[2017-07-12 00:46]` [What Is The Free Monad + Interpreter Pattern?](https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern)
 - `[2017-07-12 00:17]` [What Are Free Monads?](https://stackoverflow.com/questions/13352205/what-are-free-monads)
 - `[2017-07-11 22:46]` [Hello, Pure Command-Line Interactive](http://blog.ploeh.dk/2017/07/11/hello-pure-command-line-interaction)
