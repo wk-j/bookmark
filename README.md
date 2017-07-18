@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-18 12:44]` [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - `[2017-07-17 01:28]` [Monads (Forget About Bind)](http://www.ahnfelt.net/monads-forget-about-bind)
 - `[2017-07-15 20:08]` [Euler Problems](https://wiki.haskell.org/Euler_problems)
 - `[2017-07-13 02:40]` [Lazy Evaluation in C#](https://xosfaere.wordpress.com/2010/03/21/lazy-evaluation-in-csharp)
