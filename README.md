@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-18 21:55]` [C# Language Specification](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/)
 - `[2017-07-18 12:44]` [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - `[2017-07-17 01:28]` [Monads (Forget About Bind)](http://www.ahnfelt.net/monads-forget-about-bind)
 - `[2017-07-15 20:08]` [Euler Problems](https://wiki.haskell.org/Euler_problems)
