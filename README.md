@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-19 23:43]` [Ninety-Nine Problems in Kotlin](https://github.com/dkandalov/kotlin-99)
 - `[2017-07-19 23:15]` [PureScript by Example](https://leanpub.com/purescript/read)
 - `[2017-07-18 21:55]` [C# Language Specification](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/)
 - `[2017-07-18 12:44]` [Big-O Cheat Sheet](http://bigocheatsheet.com/)
