@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-19 23:15]` [PureScript by Example](https://leanpub.com/purescript/read)
 - `[2017-07-18 21:55]` [C# Language Specification](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/)
 - `[2017-07-18 12:44]` [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - `[2017-07-17 01:28]` [Monads (Forget About Bind)](http://www.ahnfelt.net/monads-forget-about-bind)
