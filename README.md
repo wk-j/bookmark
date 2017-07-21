@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-22 00:21]` [Getting Started with PureScript](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 - `[2017-07-19 23:43]` [Ninety-Nine Problems in Kotlin](https://github.com/dkandalov/kotlin-99)
 - `[2017-07-19 23:15]` [PureScript by Example](https://leanpub.com/purescript/read)
 - `[2017-07-18 21:55]` [C# Language Specification](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/)
