@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-22 00:38]` [Monad Tutorials Timelime](https://wiki.haskell.org/Monad_tutorials_timeline)
 - `[2017-07-22 00:38]` [Guide to Haskell and PureScript](http://itshenry.com/2015/11/10/guides-to-haskell.html)
 - `[2017-07-22 00:21]` [Getting Started with PureScript](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 - `[2017-07-19 23:43]` [Ninety-Nine Problems in Kotlin](https://github.com/dkandalov/kotlin-99)
