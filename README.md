@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-22 12:36]` [24 Days of PureScript 2016](https://github.com/paf31/24-days-of-purescript-2016)
 - `[2017-07-22 00:38]` [Monad Tutorials Timelime](https://wiki.haskell.org/Monad_tutorials_timeline)
 - `[2017-07-22 00:38]` [Guide to Haskell and PureScript](http://itshenry.com/2015/11/10/guides-to-haskell.html)
 - `[2017-07-22 00:21]` [Getting Started with PureScript](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
