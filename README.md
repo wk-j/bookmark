@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-29 17:17]` [Getting started in PureScript (Part 1)](https://pierrebeaucamp.surge.sh/post/Getting%20started%20in%20PureScript%20%28Part%201%29)
 - `[2017-07-28 14:36]` [Real World Haskell](http://book.realworldhaskell.org/read)
 - `[2017-07-23 03:38]` [Implementation of Henderson's Escher Fish in F#](https://github.com/einarwh/funfish)
 - `[2017-07-22 12:36]` [24 Days of PureScript 2016](https://github.com/paf31/24-days-of-purescript-2016)
