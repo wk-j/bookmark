@@ -1,6 +1,6 @@
 ## My Bookmarks
 
-- `[2017-07-29 17:24]` [10 Things Idris Improved Over Haskell](https://deque.blog/2017/06/14/10-things-idris-improved-over-haskell)
+- `[2017-07-30 16:56]` [Immutable Objects in C#](https://www.pluralsight.com/tech-blog/immutable-objects-in-csharp)
 - `[2017-07-29 17:17]` [Getting started in PureScript (Part 1)](https://pierrebeaucamp.surge.sh/post/Getting%20started%20in%20PureScript%20%28Part%201%29)
 - `[2017-07-28 14:36]` [Real World Haskell](http://book.realworldhaskell.org/read)
 - `[2017-07-23 03:38]` [Implementation of Henderson's Escher Fish in F#](https://github.com/einarwh/funfish)
