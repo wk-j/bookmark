@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-31 15:50]` [Is There A Way To Perform A Circular Bit Shift In C#](https://stackoverflow.com/questions/35167/is-there-a-way-to-perform-a-circular-bit-shift-in-c)
 - `[2017-07-31 14:30]` [Elm In Production: 25,000 Lines Later](https://charukiewi.cz/posts/elm)
 - `[2017-07-31 11:48]` [99 Problems (Solved) In Ocaml](https://ocaml.org/learn/tutorials/99problems.html)
 - `[2017-07-31 11:46]` [Python Solutions To 99 Prolog Problems](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions)
