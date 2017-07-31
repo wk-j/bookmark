@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-07-31 11:48]` [99 Problems (Solved) In Ocaml](https://ocaml.org/learn/tutorials/99problems.html)
 - `[2017-07-31 11:46]` [Python Solutions To 99 Prolog Problems](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions)
 - `[2017-07-30 16:56]` [Immutable Objects in C#](https://www.pluralsight.com/tech-blog/immutable-objects-in-csharp)
 - `[2017-07-29 17:17]` [Getting started in PureScript (Part 1)](https://pierrebeaucamp.surge.sh/post/Getting%20started%20in%20PureScript%20%28Part%201%29)
