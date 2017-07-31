@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-01 02:05]` [Yet Another Monad Tutorial in 15 Minutes](http://www.idryman.org/blog/2014/01/23/yet-another-monad-tutorial)
 - `[2017-08-01 01:59]` [99 Elm Problems](https://en.wikibooks.org/wiki/99_Elm_Problems)
 - `[2017-07-31 15:50]` [Is There A Way To Perform A Circular Bit Shift In C#](https://stackoverflow.com/questions/35167/is-there-a-way-to-perform-a-circular-bit-shift-in-c)
 - `[2017-07-31 14:30]` [Elm In Production: 25,000 Lines Later](https://charukiewi.cz/posts/elm)
