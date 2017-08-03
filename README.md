@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-03 23:48]` [Don't Block on Async Code](https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
 - `[2017-08-03 13:10]` [C# Developers: Stop Calling .Result](http://motzcod.es/post/162870742532/c-sharp-developers-stop-calling-dot-result)
 - `[2017-08-02 23:49]` [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content)
 - `[2017-08-01 18:07]` [Data Structures for Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
