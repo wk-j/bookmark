@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-03 13:10]` [C# Developers: Stop Calling .Result](http://motzcod.es/post/162870742532/c-sharp-developers-stop-calling-dot-result)
 - `[2017-08-02 23:49]` [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content)
 - `[2017-08-01 18:07]` [Data Structures for Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 - `[2017-08-01 02:05]` [Yet Another Monad Tutorial in 15 Minutes](http://www.idryman.org/blog/2014/01/23/yet-another-monad-tutorial)
