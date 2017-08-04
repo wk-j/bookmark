@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-04 14:41]` [Elm Is Wrong](http://reasonablypolymorphic.com/blog/elm-is-wrong)
 - `[2017-08-04 01:49]` [Creating A .NET Renaissance - Ian Cooper](https://www.youtube.com/watch?v=1gfQFiGLZfw)
 - `[2017-08-03 23:48]` [Don't Block on Async Code](https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
 - `[2017-08-03 13:10]` [C# Developers: Stop Calling .Result](http://motzcod.es/post/162870742532/c-sharp-developers-stop-calling-dot-result)
