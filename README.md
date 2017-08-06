@@ -1,5 +1,8 @@
 ## My Bookmarks
 
+- `[2017-08-07 02:18]` [Perhaps Not The Answer
+You Were Expecting
+But You Asked For It](https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf)
 - `[2017-08-05 02:23]` [Object Oriented vs Functional Programming](https://www.johndcook.com/blog/2010/11/03/object-oriented-vs-functional-programming)
 - `[2017-08-04 21:00]` [Clojure The Perfect Language To Expand Your Brain](http://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain)
 - `[2017-08-04 20:05]` [Killing Gracefully a .Net Core Daemon on Linux](https://stackoverflow.com/questions/38291567/killing-gracefully-a-net-core-daemon-running-on-linux)
