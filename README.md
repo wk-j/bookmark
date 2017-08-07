@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-07 11:12]` [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 - `[2017-08-07 02:18]` [Perhaps Not The Answer
 You Were Expecting
 But You Asked For It](https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf)
