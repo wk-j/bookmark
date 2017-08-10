@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-10 10:52]` [Lined-up Haskell Types](https://chris-martin.github.io/haskell-aligned)
 - `[2017-08-08 12:04]` [A Working Stiff's Guide to
 PureScript](https://reaktor.github.io/purescript-workshop/#/)
 - `[2017-08-08 01:49]` [EPUB/MOBI Build Script for Books Available on The Internet](https://github.com/brthanmathwoag/ebooks)
