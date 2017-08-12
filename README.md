@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-12 15:42]` [Introduction to Nix (for Users of Stack)](https://chris-martin.org/2017/nix-for-stack-users)
 - `[2017-08-11 18:33]` [Convert Haskell Code Into Point-Free Haskell Code](http://pointfree.io)
 - `[2017-08-10 10:52]` [Lined-up Haskell Types](https://chris-martin.github.io/haskell-aligned)
 - `[2017-08-08 12:04]` [A Working Stiff's Guide to
