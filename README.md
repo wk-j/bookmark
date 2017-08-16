@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-16 20:51]` [Dynamic Lookup in F#](http://tomasp.net/blog/fsharp-dynamic-lookup.aspx)
 - `[2017-08-15 23:42]` [ClojureScript Cheatsheet](http://cljs.info/cheatsheet)
 - `[2017-08-14 22:58]` [Create Anime Characters with A.I.](http://make.girls.moe)
 - `[2017-08-12 15:42]` [Introduction to Nix (for Users of Stack)](https://chris-martin.org/2017/nix-for-stack-users)
