@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-17 12:51]` [What Function Should I Use?](https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F)
 - `[2017-08-17 00:37]` [What Are The Dark Corners of Vim](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
 - `[2017-08-16 20:51]` [Dynamic Lookup in F#](http://tomasp.net/blog/fsharp-dynamic-lookup.aspx)
 - `[2017-08-15 23:42]` [ClojureScript Cheatsheet](http://cljs.info/cheatsheet)
