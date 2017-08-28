@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-29 00:47]` [Vim Cheat Sheet](https://www.docdroid.net/I9NruaP/vim-cheat-sheet.pdf)
 - `[2017-08-28 17:16]` [Replacing AppDomain in .Net Core](http://www.michael-whelan.net/replacing-appdomain-in-dotnet-core)
 - `[2017-08-20 03:02]` [Using Clojurescript, Macros, and core.async to Escape Callback Hell (Asynchronize)](http://bryangilbert.com/post/code/clojure/escape-callback-hell-core-async)
 - `[2017-08-17 12:51]` [What Function Should I Use?](https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F)
