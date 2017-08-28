@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-08-28 17:16]` [Replacing AppDomain in .Net Core](http://www.michael-whelan.net/replacing-appdomain-in-dotnet-core)
 - `[2017-08-20 03:02]` [Using Clojurescript, Macros, and core.async to Escape Callback Hell (Asynchronize)](http://bryangilbert.com/post/code/clojure/escape-callback-hell-core-async)
 - `[2017-08-17 12:51]` [What Function Should I Use?](https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F)
 - `[2017-08-17 00:37]` [What Are The Dark Corners of Vim](https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about)
