@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-09-05 14:20]` [Handle Events By Arrow Functions In React App](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb)
 - `[2017-08-31 21:01]` [What's Functional Programming All About?](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 - `[2017-08-29 00:47]` [Vim Cheat Sheet](https://www.docdroid.net/I9NruaP/vim-cheat-sheet.pdf)
 - `[2017-08-28 17:16]` [Replacing AppDomain in .Net Core](http://www.michael-whelan.net/replacing-appdomain-in-dotnet-core)
