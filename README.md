@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-09-12 16:58]` [Hints for Recursive Type Aliases](https://github.com/elm-lang/elm-compiler/blob/0.17.1/hints/recursive-alias.md)
 - `[2017-09-07 22:54]` [Chaining HTTP Requests in Elm – An Example](https://spin.atomicobject.com/2016/10/11/elm-chain-http-requests)
 - `[2017-09-07 14:20]` [Exposing Your Local Node.js App To The World](https://www.pluralsight.com/guides/node-js/exposing-your-local-node-js-app-to-the-world)
 - `[2017-09-05 14:20]` [Handle Events By Arrow Functions In React App](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb)
