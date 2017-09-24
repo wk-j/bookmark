@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-09-25 01:34]` [Titanic Kaggle Challenge](http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html)
 - `[2017-09-15 02:19]` [Lessons Learned Porting a Game From Purescript to Elm](https://alpacaaa.net/blog/post/elm-purescript-in-depth-overview)
 - `[2017-09-12 16:58]` [Hints for Recursive Type Aliases](https://github.com/elm-lang/elm-compiler/blob/0.17.1/hints/recursive-alias.md)
 - `[2017-09-07 22:54]` [Chaining HTTP Requests in Elm – An Example](https://spin.atomicobject.com/2016/10/11/elm-chain-http-requests)
