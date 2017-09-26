@@ -1,6 +1,6 @@
 ## My Bookmarks
 
-- `[2017-09-26 14:28]` [Concise TensorFlow Examples for Beginners with Latest APIs https://tensorflow.org](https://github.com/aymericdamien/TensorFlow-Examples)
+- `[2017-09-26 14:28]` [Concise TensorFlow Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)
 - `[2017-09-25 19:09]` [TensorFlow Tutorial #02 Convolutional Neural Network](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb)
 - `[2017-09-25 01:37]` [Would You Survive the Titanic? A Guide to Machine Learning in Python](https://medium.com/learning-new-stuff/would-you-survive-the-titanic-a-guide-to-machine-learning-in-python-f80c9d7b7582)
 - `[2017-09-25 01:34]` [Titanic Kaggle Challenge](http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html)
