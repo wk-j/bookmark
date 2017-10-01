@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-10-01 20:21]` [Extending F# through Computation Expressions](https://panesofglass.github.io/computation-expressions)
 - `[2017-09-30 13:15]` [Spread Operator Does Not Deep Copy Properties](http://www.bambielli.com/til/2017-01-29-spread-operator-deep-copy)
 - `[2017-09-27 13:01]` [Typesafe Redux in TypeScript](http://michaellawrie.com/typesafe-redux-in-typescript)
 - `[2017-09-26 14:28]` [Concise TensorFlow Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)
