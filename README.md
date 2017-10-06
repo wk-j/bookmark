@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-10-06 12:31]` [The Y Combinator](https://gist.github.com/lukechampine/a3956a840c603878fd9f)
 - `[2017-10-06 01:07]` [Quick Sort In Haskell](http://wiki.c2.com/?QuickSortInHaskell)
 - `[2017-10-05 01:28]` [From Design Patterns To Category Theory](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 - `[2017-10-01 20:21]` [Extending F# through Computation Expressions](https://panesofglass.github.io/computation-expressions)
