@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-10-12 18:51]` [How to Handle Drag and Drop File Feature in Electron Framework](https://ourcodeworld.com/articles/read/288/how-to-handle-drag-and-drop-file-feature-in-electron-framework)
 - `[2017-10-09 15:01]` [Does Function Composition rely on Partial Application?](https://stackoverflow.com/questions/36426315/does-function-composition-rely-on-partial-application)
 - `[2017-10-07 17:57]` [Testing Alfresco from command line with CURL and CMIS Browser](https://angelborroy.wordpress.com/2017/10/07/testing-alfresco-from-command-line-with-curl-and-cmis-browser)
 - `[2017-10-06 12:31]` [The Y Combinator](https://gist.github.com/lukechampine/a3956a840c603878fd9f)
