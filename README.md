@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-10-17 00:10]` [A Monad Writer for F#](https://hackernoon.com/a-monad-writer-for-f-26aa987e4a3a)
 - `[2017-10-14 13:21]` [What is “2's Complement”?](https://stackoverflow.com/questions/1049722/what-is-2s-complement)
 - `[2017-10-13 21:31]` [Low Level Bit Hacks You Absolutely Must Know](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know)
 - `[2017-10-12 18:51]` [How to Handle Drag and Drop File Feature in Electron Framework](https://ourcodeworld.com/articles/read/288/how-to-handle-drag-and-drop-file-feature-in-electron-framework)
