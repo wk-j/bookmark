@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-10-18 12:50]` [Hotswapping Haskell at Facebook](http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html)
 - `[2017-10-17 00:10]` [A Monad Writer for F#](https://hackernoon.com/a-monad-writer-for-f-26aa987e4a3a)
 - `[2017-10-14 13:21]` [What is “2's Complement”?](https://stackoverflow.com/questions/1049722/what-is-2s-complement)
 - `[2017-10-13 21:31]` [Low Level Bit Hacks You Absolutely Must Know](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know)
