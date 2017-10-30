@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-10-31 00:15]` [F* – An ML-like Functional Programming Language Aimed at Program Verification](https://news.ycombinator.com/item?id=15582969)
 - `[2017-10-20 20:09]` [Becoming Foolish](https://hmemcpy.com/2017/10/becoming-foolish)
 - `[2017-10-20 12:46]` [Object-Oriented Haskell](https://programming.tobiasdammers.nl/blog/2017-10-17-object-oriented-haskell)
 - `[2017-10-18 23:59]` [Beautiful Aggregations with Haskell](http://tech.frontrowed.com/2017/09/22/aggregations)
