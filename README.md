@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-10-31 22:41]` [Multi-line strings in Haskell](https://kseo.github.io/posts/2014-02-06-multi-line-strings-in-haskell.html)
 - `[2017-10-31 18:34]` [A Haskell Reading List](http://www.stephendiehl.com/posts/essential_haskell.html)
 - `[2017-10-31 18:32]` [Typoclassopedia: Exercise solutions](https://theread.me/typoclassopedia-exercise-solutions)
 - `[2017-10-31 00:36]` [Monads Explained In C#](https://mikhail.io/2016/01/monads-explained-in-csharp)
