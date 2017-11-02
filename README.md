@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-11-03 03:09]` [About Values, Lenses, Update-in, Assoc-in, C# and F#](https://www.replicator.org/journal/201208151329-about-values-lenses-update-in-assoc-in-c-and-f)
 - `[2017-11-03 01:36]` [Nullable in F#](http://bugsquash.blogspot.com/2010/09/nullable-in-f.html)
 - `[2017-11-02 12:56]` [The Monad Fear](https://e.xtendo.org/monad#1)
 - `[2017-11-02 12:38]` [Monads Explained (Sort Of) To a C# Developer](https://gist.github.com/dvdsgl/669d38dd067f799473fa)
