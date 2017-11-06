@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-11-06 14:58]` [Function Monoids](http://blog.ploeh.dk/2017/11/06/function-monoids)
 - `[2017-11-03 20:42]` [Lenses In Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
 - `[2017-11-03 03:09]` [About Values, Lenses, Update-in, Assoc-in, C# and F#](https://www.replicator.org/journal/201208151329-about-values-lenses-update-in-assoc-in-c-and-f)
 - `[2017-11-03 01:36]` [Nullable in F#](http://bugsquash.blogspot.com/2010/09/nullable-in-f.html)
