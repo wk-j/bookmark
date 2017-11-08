@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-11-09 01:08]` [How Does Asynchronous Main Work Under The Hood?](https://www.tabsoverspaces.com/233656-how-does-asynchronous-main-work-under-the-hood/)
 - `[2017-11-08 10:56]` [There Is No Thread](http://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 - `[2017-11-07 22:41]` [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
 - `[2017-11-06 22:40]` [Haskell by Example: Atomic Counters](https://lotz84.github.io/haskellbyexample/ex/atomic-counters)
