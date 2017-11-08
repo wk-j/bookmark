@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-11-08 10:56]` [There Is No Thread](http://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 - `[2017-11-07 22:41]` [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
 - `[2017-11-06 22:40]` [Haskell by Example: Atomic Counters](https://lotz84.github.io/haskellbyexample/ex/atomic-counters)
 - `[2017-11-06 14:58]` [Function Monoids](http://blog.ploeh.dk/2017/11/06/function-monoids)
