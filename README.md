@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-11-11 01:47]` [On Functional Programming And Scary Terminology](http://hadihariri.com/2017/11/09/on-functional-programming-and-scary-terminology)
 - `[2017-11-09 01:17]` [A DoS Attack Against the C# Compiler](http://mattwarren.org/2017/11/08/A-DoS-Attack-against-the-C-Compiler)
 - `[2017-11-09 01:08]` [How Does Asynchronous Main Work Under The Hood?](https://www.tabsoverspaces.com/233656-how-does-asynchronous-main-work-under-the-hood/)
 - `[2017-11-08 10:56]` [There Is No Thread](http://blog.stephencleary.com/2013/11/there-is-no-thread.html)
