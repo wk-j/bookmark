@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-11-17 14:37]` [C# changes its mind after 20 years](https://twitter.com/dsyme/status/931095426341769216)
 - `[2017-11-12 18:44]` [Bundling .NET Build Tools in NuGet](http://www.natemcmaster.com/blog/2017/11/11/build-tools-in-nuget)
 - `[2017-11-11 01:47]` [On Functional Programming And Scary Terminology](http://hadihariri.com/2017/11/09/on-functional-programming-and-scary-terminology)
 - `[2017-11-09 01:17]` [A DoS Attack Against the C# Compiler](http://mattwarren.org/2017/11/08/A-DoS-Attack-against-the-C-Compiler)
