@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-11-18 02:47]` [Toyota and Lexus](https://www.quora.com/What-is-the-relationship-between-Toyota-and-Lexus-Nissan-and-Infiniti-Mercedes-Benz-and-Maybach-Do-we-have-anything-else-like-them)
 - `[2017-11-17 14:37]` [C# changes its mind after 20 years](https://twitter.com/dsyme/status/931095426341769216)
 - `[2017-11-12 18:44]` [Bundling .NET Build Tools in NuGet](http://www.natemcmaster.com/blog/2017/11/11/build-tools-in-nuget)
 - `[2017-11-11 01:47]` [On Functional Programming And Scary Terminology](http://hadihariri.com/2017/11/09/on-functional-programming-and-scary-terminology)
