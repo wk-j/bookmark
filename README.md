@@ -1,5 +1,7 @@
 ## My Bookmarks
 
+- `[2017-11-18 17:31]` [Running A Design-Time Build With MSBuild APIs](https://daveaglick.com/posts/running-a-design-time-build-with-msbuild-apis)
+- `[2017-11-18 02:47]` [Toyota and Lexus](https://www.quora.com/What-is-the-relationship-between-Toyota-and-Lexus-Nissan-and-Infiniti-Mercedes-Benz-and-Maybach-Do-we-have-anything-else-like-them)
 - `[2017-11-12 18:44]` [Bundling .NET Build Tools in NuGet](http://www.natemcmaster.com/blog/2017/11/11/build-tools-in-nuget)
 - `[2017-11-11 01:47]` [On Functional Programming And Scary Terminology](http://hadihariri.com/2017/11/09/on-functional-programming-and-scary-terminology)
 - `[2017-11-09 01:17]` [A DoS Attack Against the C# Compiler](http://mattwarren.org/2017/11/08/A-DoS-Attack-against-the-C-Compiler)
