@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-11-26 00:13]` [The State of C# - What Have I Missed?](https://www.filipekberg.se/2017/11/21/csharp-what-is-next)
 - `[2017-11-24 21:24]` [Strict Property Initialization Checks in Classes](https://github.com/Microsoft/TypeScript/pull/20075)
 - `[2017-11-18 17:31]` [Running A Design-Time Build With MSBuild APIs](https://daveaglick.com/posts/running-a-design-time-build-with-msbuild-apis)
 - `[2017-11-18 02:47]` [Toyota and Lexus](https://www.quora.com/What-is-the-relationship-between-Toyota-and-Lexus-Nissan-and-Infiniti-Mercedes-Benz-and-Maybach-Do-we-have-anything-else-like-them)
