@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-02 20:22]` [Adding a Verb to The .NET CLI Tooling](http://mattwarren.org/2016/10/03/Adding-a-verb-to-the-dotnet-CLI-tooling)
 - `[2017-11-26 00:13]` [The State of C# - What Have I Missed?](https://www.filipekberg.se/2017/11/21/csharp-what-is-next)
 - `[2017-11-24 21:24]` [Strict Property Initialization Checks in Classes](https://github.com/Microsoft/TypeScript/pull/20075)
 - `[2017-11-18 17:31]` [Running A Design-Time Build With MSBuild APIs](https://daveaglick.com/posts/running-a-design-time-build-with-msbuild-apis)
