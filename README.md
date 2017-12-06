@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-07 02:25]` [Why Not Haskell?](http://neugierig.org/software/blog/2011/10/why-not-haskell.html)
 - `[2017-12-07 00:09]` [Aeson And Nested JSON](http://blog.gnclmorais.com/aeson-and-nested-json)
 - `[2017-12-06 23:25]` [Aeson The Tutorial](https://artyom.me/aeson)
 - `[2017-12-06 20:37]` [Level Up Your VsVim](https://fuqua.io/blog/2017/08/level-up-your-vsvim)
