@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-06 23:25]` [Aeson The Tutorial](https://artyom.me/aeson)
 - `[2017-12-06 20:37]` [Level Up Your VsVim](https://fuqua.io/blog/2017/08/level-up-your-vsvim)
 - `[2017-12-04 18:34]` [Test Case Filter](https://github.com/Microsoft/vstest-docs/blob/master/docs/filter.md)
 - `[2017-12-04 01:12]` [Precompiled Azure Functions in F#](https://mikhail.io/2017/12/precompiled-azure-functions-in-fsharp)
