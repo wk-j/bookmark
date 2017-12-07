@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-08 01:15]` [Writing a F# Type Provider](https://www.aaron-powell.com/posts/2015-02-06-writing-a-fsharp-type-provider)
 - `[2017-12-07 02:28]` [Why Not Haskell?](https://news.ycombinator.com/item?id=3122725)
 - `[2017-12-07 00:09]` [Aeson And Nested JSON](http://blog.gnclmorais.com/aeson-and-nested-json)
 - `[2017-12-06 23:25]` [Aeson The Tutorial](https://artyom.me/aeson)
