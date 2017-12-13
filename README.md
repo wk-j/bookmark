@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-13 10:33]` [F# Computation Expressions in C#](https://gist.github.com/garuma/5d2527b697c271cc243fa1ddf853cb2d)
 - `[2017-12-10 03:21]` [Type Providers From the Ground Up](http://blog.mavnn.co.uk/type-providers-from-the-ground-up)
 - `[2017-12-09 20:08]` [Simple Testing Can Prevent Most Critical Failures](https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures)
 - `[2017-12-08 01:15]` [Writing a F# Type Provider](https://www.aaron-powell.com/posts/2015-02-06-writing-a-fsharp-type-provider)
