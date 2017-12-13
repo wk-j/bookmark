@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-14 02:15]` [How to Port From .NET Framework to .NET Standard](https://codehollow.com/2017/05/port-net-framework-net-standard)
 - `[2017-12-14 01:30]` [Fun with Custom C# Collection Initializers](https://blog.mariusschulz.com/2014/06/26/fun-with-custom-c-collection-initializers)
 - `[2017-12-14 01:24]` [C# Object Intialization Of Read Only Colection](https://stackoverflow.com/questions/5646285/c-sharp-object-initialization-of-read-only-collection-properties)
 - `[2017-12-13 23:05]` [Use Code Analyzers in C# To Improve Code Quality](https://codehollow.com/2016/08/use-code-analyzers-csharp-improve-code-quality/)
