@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-13 13:29]` [.NET Core, Code Analysis and StyleCop](https://carlos.mendible.com/2017/08/24/net-core-code-analysis-and-stylecop)
 - `[2017-12-13 11:00]` [Using Async.Choice in Paket](http://www.navision-blog.de/blog/2015/11/30/fsadvent-using-async-choice-in-paket)
 - `[2017-12-13 10:33]` [F# Computation Expressions in C#](https://gist.github.com/garuma/5d2527b697c271cc243fa1ddf853cb2d)
 - `[2017-12-10 03:21]` [Type Providers From the Ground Up](http://blog.mavnn.co.uk/type-providers-from-the-ground-up)
