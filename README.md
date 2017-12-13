@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-13 23:05]` [Use Code Analyzers in C# To Improve Code Quality](https://codehollow.com/2016/08/use-code-analyzers-csharp-improve-code-quality/)
 - `[2017-12-13 18:04]` [Start Multiple Async Tasks and Process Them As They Complete (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/start-multiple-async-tasks-and-process-them-as-they-complete)
 - `[2017-12-13 13:29]` [.NET Core, Code Analysis and StyleCop](https://carlos.mendible.com/2017/08/24/net-core-code-analysis-and-stylecop)
 - `[2017-12-13 11:00]` [Using Async.Choice in Paket](http://www.navision-blog.de/blog/2015/11/30/fsadvent-using-async-choice-in-paket)
