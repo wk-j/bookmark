@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-16 03:15]` [C# Code Formatting Settings In VS Code And OmniSharp](https://www.strathweb.com/2017/01/c-code-formatting-settings-in-vs-code-and-omnisharp)
 - `[2017-12-15 23:48]` [Generic Programming Made Easy](https://www.demystifyfp.com/fsharp/blog/generic-programming-made-easy)
 - `[2017-12-15 20:47]` [Statically Resolved Type Parameters](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/generics/statically-resolved-type-parameters)
 - `[2017-12-15 02:42]` [Collection Initialization](https://github.com/dotnet/corefx/issues/23423)
