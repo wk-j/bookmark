@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-15 23:48]` [Generic Programming Made Easy](https://www.demystifyfp.com/fsharp/blog/generic-programming-made-easy)
 - `[2017-12-15 20:47]` [Statically Resolved Type Parameters](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/generics/statically-resolved-type-parameters)
 - `[2017-12-15 02:42]` [Collection Initialization](https://github.com/dotnet/corefx/issues/23423)
 - `[2017-12-14 20:23]` [C# 7 Series, Part 7: Ref Returns](https://blogs.msdn.microsoft.com/mazhou/2017/12/12/c-7-series-part-7-ref-returns)
