@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-20 17:56]` [Language Server Protocal Implementations](https://github.com/Microsoft/language-server-protocol/wiki/Protocol-Implementations)
 - `[2017-12-20 15:38]` [How Does Task in C# Affect Performance?](https://jeremybytes.blogspot.co.nz/2017/12/how-does-task-in-c-affect-performance.html)
 - `[2017-12-20 12:41]` [C# - All About Span: Exploring a New .NET Mainstay](https://msdn.microsoft.com/en-us/magazine/mt814808?f=255&MSPPError=-2147217396)
 - `[2017-12-20 01:42]` [How Can I Unit Test Roslyn Diagnostics?](https://stackoverflow.com/questions/30384868/how-can-i-unit-test-roslyn-diagnostics)
