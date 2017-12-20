@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-20 12:41]` [C# - All About Span: Exploring a New .NET Mainstay](https://msdn.microsoft.com/en-us/magazine/mt814808?f=255&MSPPError=-2147217396)
 - `[2017-12-20 01:42]` [How Can I Unit Test Roslyn Diagnostics?](https://stackoverflow.com/questions/30384868/how-can-i-unit-test-roslyn-diagnostics)
 - `[2017-12-19 22:45]` [Formatting C# with Roslyn](https://dogschasingsquirrels.com/2014/07/19/formatting-c-with-roslyn)
 - `[2017-12-16 03:15]` [C# Code Formatting Settings In VS Code And OmniSharp](https://www.strathweb.com/2017/01/c-code-formatting-settings-in-vs-code-and-omnisharp)
