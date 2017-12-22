@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2017-12-22 17:30]` [Fix All Provider](https://github.com/dotnet/roslyn/blob/master/docs/analyzers/FixAllProvider.md)
 - `[2017-12-21 00:53]` [A Little Utility To Perform Design-Time Builds of .NET Projects](https://github.com/daveaglick/Buildalyzer)
 - `[2017-12-20 17:56]` [Language Server Protocal Implementations](https://github.com/Microsoft/language-server-protocol/wiki/Protocol-Implementations)
 - `[2017-12-20 15:38]` [How Does Task in C# Affect Performance?](https://jeremybytes.blogspot.co.nz/2017/12/how-does-task-in-c-affect-performance.html)
