@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-06 10:24]` [Duck Typing And Async/Await](http://blog.i3arnon.com/2018/01/02/task-enumerable-awaiter)
 - `[2017-12-22 17:30]` [Fix All Provider](https://github.com/dotnet/roslyn/blob/master/docs/analyzers/FixAllProvider.md)
 - `[2017-12-21 00:53]` [A Little Utility To Perform Design-Time Builds of .NET Projects](https://github.com/daveaglick/Buildalyzer)
 - `[2017-12-20 17:56]` [Language Server Protocal Implementations](https://github.com/Microsoft/language-server-protocol/wiki/Protocol-Implementations)
