@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-07 23:05]` [Asynchronous C# and F#](http://tomasp.net/blog/csharp-fsharp-async-intro.aspx)
 - `[2018-01-07 21:25]` [Comparing Scala to F#](https://mikhail.io/2016/08/comparing-scala-to-fsharp)
 - `[2018-01-07 16:35]` [Introduction to Mixins For the C# Developer](https://www.simplethread.com/introduction-to-mixins-for-the-c-developer)
 - `[2018-01-06 10:24]` [Duck Typing And Async/Await](http://blog.i3arnon.com/2018/01/02/task-enumerable-awaiter)
