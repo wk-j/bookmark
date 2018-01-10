@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-10 12:10]` [Do I Need To Use ConfigureAwait(false) All The Way?](https://danielwertheim.se/do-i-need-to-use-configureawait-false-all-the-way)
 - `[2018-01-09 19:02]` [.NET Performance And Reliability - Span](http://adamsitnik.com/Span)
 - `[2018-01-09 17:28]` [A (Hitchhiker's) Guide To The .NET Core Projects on GitHub](https://blog.rendle.io/a-guide-to-the-net-projects-on-github)
 - `[2018-01-07 23:05]` [What Does Async & Await Generate?](https://www.filipekberg.se/2013/01/16/what-does-async-await-generate)
