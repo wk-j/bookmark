@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-12 00:49]` [Top 5 .NET Memory Management Fundamentals](https://www.red-gate.com/products/dotnet-development/ants-memory-profiler/learning-memory-management/memory-management-fundamentals)
 - `[2018-01-11 10:53]` [Naming Parameters](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-parameters)
 - `[2018-01-10 12:10]` [Do I Need To Use ConfigureAwait(false) All The Way?](https://danielwertheim.se/do-i-need-to-use-configureawait-false-all-the-way)
 - `[2018-01-09 19:02]` [.NET Performance And Reliability - Span](http://adamsitnik.com/Span)
