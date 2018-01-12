@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-13 01:53]` [Strings in C# and .NET](http://csharpindepth.com/Articles/General/Strings.aspx)
 - `[2018-01-12 15:36]` [Exploring Memory Allocation And Strings](https://blog.maartenballiauw.be/post/2016/11/15/exploring-memory-allocation-and-strings.html)
 - `[2018-01-12 11:37]` [When To Use Struct?](https://stackoverflow.com/questions/521298/when-to-use-struct)
 - `[2018-01-12 00:49]` [Top 5 .NET Memory Management Fundamentals](https://www.red-gate.com/products/dotnet-development/ants-memory-profiler/learning-memory-management/memory-management-fundamentals)
