@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-13 21:22]` [The Book of the Runtime](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
 - `[2018-01-13 21:13]` [How Do .NET Delegates Workd?](http://mattwarren.org/2017/01/25/How-do-.NET-delegates-work)
 - `[2018-01-13 01:53]` [Strings in C# and .NET](http://csharpindepth.com/Articles/General/Strings.aspx)
 - `[2018-01-12 15:36]` [Exploring Memory Allocation And Strings](https://blog.maartenballiauw.be/post/2016/11/15/exploring-memory-allocation-and-strings.html)
