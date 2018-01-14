@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-14 23:46]` [Tasks Are (Still) Not Threads And Async Is Not Parallel](https://blogs.msdn.microsoft.com/benwilli/2015/09/10/tasks-are-still-not-threads-and-async-is-not-parallel)
 - `[2018-01-14 22:06]` [Task.Run vs Task.Factory.StartNew](https://blogs.msdn.microsoft.com/pfxteam/2011/10/24/task-run-vs-task-factory-startnew)
 - `[2018-01-14 15:52]` [A Tour of Task](https://blog.stephencleary.com/2014/04/a-tour-of-task-part-0-overview.html)
 - `[2018-01-13 21:22]` [The Book of the Runtime](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
