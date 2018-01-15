@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-16 00:24]` [Arrays Heap And Stack And Value Types](https://stackoverflow.com/questions/1113819/arrays-heap-and-stack-and-value-types/1114152#1114152)
 - `[2018-01-15 22:55]` [State of the .NET Performance - Adam Sitnik](https://www.youtube.com/watch?v=CSPSvBeqJ9c)
 - `[2018-01-14 23:46]` [Tasks Are (Still) Not Threads And Async Is Not Parallel](https://blogs.msdn.microsoft.com/benwilli/2015/09/10/tasks-are-still-not-threads-and-async-is-not-parallel)
 - `[2018-01-14 22:06]` [Task.Run vs Task.Factory.StartNew](https://blogs.msdn.microsoft.com/pfxteam/2011/10/24/task-run-vs-task-factory-startnew)
