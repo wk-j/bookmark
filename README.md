@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-19 18:50]` [.NET Core Glossary](https://github.com/dotnet/coreclr/blob/master/Documentation/project-docs/glossary.md)
 - `[2018-01-19 15:40]` [Designing BCL range type](https://twitter.com/terrajobst/status/954177373615738881)
 - `[2018-01-18 01:47]` [Value Types vs Reference Types](http://adamsitnik.com/Value-Types-vs-Reference-Types)
 - `[2018-01-17 12:41]` [Overhead Of A .NET Array?](https://stackoverflow.com/questions/1589669/overhead-of-a-net-array)
