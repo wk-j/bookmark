@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-21 01:46]` [All Access Modifiers In Venn Diagrams](https://stackoverflow.com/questions/22856215/what-is-the-meaning-of-the-planned-private-protected-c-sharp-access-modifier)
 - `[2018-01-21 01:37]` [Memory/<T/>](https://github.com/dotnet/corefxlab/blob/master/docs/specs/memory.md)
 - `[2018-01-20 22:55]` [Span\<T\>](https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md)
 - `[2018-01-19 20:19]` [A Set Of Command Line Tools To Cleanup C# And VB Source Code](https://github.com/KirillOsenkov/CodeCleanupTools)
