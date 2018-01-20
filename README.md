@@ -1,6 +1,6 @@
 ## My Bookmarks
 
-- `[2018-01-20 22:55]` [Span<T>](https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md)
+- `[2018-01-20 22:55]` [Span\<T\>](https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md)
 - `[2018-01-19 20:19]` [A Set Of Command Line Tools To Cleanup C# And VB Source Code](https://github.com/KirillOsenkov/CodeCleanupTools)
 - `[2018-01-19 18:50]` [.NET Core Glossary](https://github.com/dotnet/coreclr/blob/master/Documentation/project-docs/glossary.md)
 - `[2018-01-18 01:47]` [Value Types vs Reference Types](http://adamsitnik.com/Value-Types-vs-Reference-Types)
