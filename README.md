@@ -1,6 +1,5 @@
 ## My Bookmarks
 
-- `[2018-01-23 02:22]` [This is broken or wrong C# code](https://twitter.com/vcsjones/status/955438277577801728)
 - `[2018-01-23 02:03]` [C# Favorite Features Through The Year](http://www.dotnetcurry.com/csharp/1411/csharp-favorite-features)
 - `[2018-01-21 01:46]` [All Access Modifiers In Venn Diagrams](https://stackoverflow.com/questions/22856215/what-is-the-meaning-of-the-planned-private-protected-c-sharp-access-modifier)
 - `[2018-01-21 01:37]` [Memory\<T\>](https://github.com/dotnet/corefxlab/blob/master/docs/specs/memory.md)
