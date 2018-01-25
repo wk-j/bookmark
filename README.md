@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-26 01:56]` [LinqAF: A Series Of Questionable Ideas](https://kevinmontrose.com/2018/01/16/linqaf-a-series-of-questionable-ideas)
 - `[2018-01-26 01:24]` [Avoid Async Void Methods](https://haacked.com/archive/2014/11/11/async-void-methods)
 - `[2018-01-26 00:06]` [Six Essential Tips For Async](https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async)
 - `[2018-01-24 12:30]` [Advanced Flow Type #1: Exhaustive Checking With Empty Type](https://medium.com/@ibosz/advance-flow-type-1-exhaustive-checking-with-empty-type-a02e503cd3a0)
