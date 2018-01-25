@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-26 00:06]` [Six Essential Tips For Async](https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async)
 - `[2018-01-24 12:30]` [Advanced Flow Type #1: Exhaustive Checking With Empty Type](https://medium.com/@ibosz/advance-flow-type-1-exhaustive-checking-with-empty-type-a02e503cd3a0)
 - `[2018-01-23 10:45]` [Resources For Learning About .NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals)
 - `[2018-01-23 02:03]` [C# Favorite Features Through The Year](http://www.dotnetcurry.com/csharp/1411/csharp-favorite-features)
