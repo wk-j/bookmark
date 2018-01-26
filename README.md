@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-27 02:09]` [What Can You Do With PostgreSQL And JSON](http://clarkdave.net/2013/06/what-can-you-do-with-postgresql-and-json)
 - `[2018-01-26 15:56]` [Developing Libraries with Cross Platform Tools](https://docs.microsoft.com/en-us/dotnet/core/tutorials/libraries)
 - `[2018-01-26 14:59]` [Streaming APIs In ASP.NET Core](https://odetocode.com/blogs/scott/archive/2018/01/11/streaming-content-in-asp-net-core-2.aspx)
 - `[2018-01-26 01:56]` [LinqAF: A Series Of Questionable Ideas](https://kevinmontrose.com/2018/01/16/linqaf-a-series-of-questionable-ideas)
