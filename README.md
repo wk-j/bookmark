@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-26 14:59]` [Streaming APIs In ASP.NET Core](https://odetocode.com/blogs/scott/archive/2018/01/11/streaming-content-in-asp-net-core-2.aspx)
 - `[2018-01-26 01:56]` [LinqAF: A Series Of Questionable Ideas](https://kevinmontrose.com/2018/01/16/linqaf-a-series-of-questionable-ideas)
 - `[2018-01-26 01:24]` [Avoid Async Void Methods](https://haacked.com/archive/2014/11/11/async-void-methods)
 - `[2018-01-26 00:06]` [Six Essential Tips For Async](https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async)
