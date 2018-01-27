@@ -1,6 +1,6 @@
 ## My Bookmarks
 
-- `[2018-01-28 02:03]` [Creating Self-Contained Applications With MKBundler](http://www.mono-project.com/docs/tools+libraries/tools/mkbundle)
+- `[2018-01-28 02:03]` [Creating Self-Contained Applications With MKBundle](http://www.mono-project.com/docs/tools+libraries/tools/mkbundle)
 - `[2018-01-28 01:59]` [What's New For Performance In .NET Core 2.0](https://www.youtube.com/watch?v=eOdhWTX3Ajk)
 - `[2018-01-27 02:09]` [What Can You Do With PostgreSQL And JSON](http://clarkdave.net/2013/06/what-can-you-do-with-postgresql-and-json)
 - `[2018-01-26 15:56]` [Developing Libraries with Cross Platform Tools](https://docs.microsoft.com/en-us/dotnet/core/tutorials/libraries)
