@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-29 03:42]` [Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 - `[2018-01-28 15:11]` [7 Hacks for ES6 Developers](https://medium.com/dailyjs/7-hacks-for-es6-developers-4e24ff425d0b)
 - `[2018-01-28 02:03]` [Creating Self-Contained Applications With MKBundle](http://www.mono-project.com/docs/tools+libraries/tools/mkbundle)
 - `[2018-01-28 01:59]` [What's New For Performance In .NET Core 2.0](https://www.youtube.com/watch?v=eOdhWTX3Ajk)
