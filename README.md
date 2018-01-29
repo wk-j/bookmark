@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-01-29 16:41]` [Installing and Configuring Web Deploy on IIS 8.0 or Later](https://docs.microsoft.com/en-us/iis/install/installing-publishing-technologies/installing-and-configuring-web-deploy-on-iis-80-or-later)
 - `[2018-01-29 04:26]` [Moving Efficiently In The CLI](https://clementc.github.io/blog/2018/01/25/moving_cli)
 - `[2018-01-29 03:42]` [Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 - `[2018-01-28 15:11]` [7 Hacks for ES6 Developers](https://medium.com/dailyjs/7-hacks-for-es6-developers-4e24ff425d0b)
