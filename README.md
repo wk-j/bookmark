@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-04 03:18]` [An Emoji Guide for You Commit Message](https://gitmoji.carloscuesta.me)
 - `[2018-02-03 02:42]` [.NET Core 2.1 Readmap](https://blogs.msdn.microsoft.com/dotnet/2018/02/02/net-core-2-1-roadmap)
 - `[2018-02-01 01:58]` [Announcing TypeScript 2.7](https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7)
 - `[2018-01-29 23:21]` [Easy Way To Create a C# Lambda Expression From a String (With Roslyn)](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn)
