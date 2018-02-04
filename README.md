@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-04 23:17]` [TypeScript Readmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 - `[2018-02-04 03:18]` [An Emoji Guide for You Commit Message](https://gitmoji.carloscuesta.me)
 - `[2018-02-03 02:42]` [.NET Core 2.1 Readmap](https://blogs.msdn.microsoft.com/dotnet/2018/02/02/net-core-2-1-roadmap)
 - `[2018-02-01 01:58]` [Announcing TypeScript 2.7](https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7)
