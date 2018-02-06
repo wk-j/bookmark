@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-07 00:15]` [Introducing FsConfig](https://www.demystifyfp.com/fsharp/blog/introducing-fsconfig)
 - `[2018-02-05 23:47]` [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
 - `[2018-02-04 23:17]` [TypeScript Readmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 - `[2018-02-04 03:18]` [An Emoji Guide for You Commit Message](https://gitmoji.carloscuesta.me)
