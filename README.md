@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-09 00:30]` [Using Roslyn Refactorings with OmniSharp and Visual Studio Code](https://www.strathweb.com/2017/05/using-roslyn-refactorings-with-omnisharp-and-visual-studio-code)
 - `[2018-02-08 03:06]` [Exception Filters in C# 6: Their Biggest Advantage Is Not What You Think](https://www.thomaslevesque.com/2015/06/21/exception-filters-in-c-6)
 - `[2018-02-07 00:15]` [Introducing FsConfig](https://www.demystifyfp.com/fsharp/blog/introducing-fsconfig)
 - `[2018-02-05 23:47]` [Dependency injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
