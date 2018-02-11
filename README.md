@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-12 02:39]` [Serilog Tutorial](https://blog.getseq.net/serilog-tutorial)
 - `[2018-02-11 23:42]` [All the Keywords That Activate Facebook’s Text Delight Animations](https://medium.com/@owenyin/all-the-keywords-that-activate-facebooks-text-delight-animations-c68a7966e793)
 - `[2018-02-09 00:30]` [Using Roslyn Refactorings with OmniSharp and Visual Studio Code](https://www.strathweb.com/2017/05/using-roslyn-refactorings-with-omnisharp-and-visual-studio-code)
 - `[2018-02-08 03:06]` [Exception Filters in C# 6: Their Biggest Advantage Is Not What You Think](https://www.thomaslevesque.com/2015/06/21/exception-filters-in-c-6)
