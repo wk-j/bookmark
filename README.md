@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-13 02:28]` [How To User React's Higher Order Componnets](https://medium.freecodecamp.org/react-higher-order-components-635d0bc38b6c)
 - `[2018-02-12 21:31]` [Saga Middleware for Redux to Handle Side Effects - Interview with Yassine Elouafi](https://survivejs.com/blog/redux-saga-interview)
 - `[2018-02-12 19:46]` [ควบคุม Flow ของแอพ React Native ด้วย Redux Saga](https://blog.appsynth.net/%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1-flow-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%9E-react-native-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-redux-saga-4a85cebb1773)
 - `[2018-02-12 02:39]` [Serilog Tutorial](https://blog.getseq.net/serilog-tutorial)
