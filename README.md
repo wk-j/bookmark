@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-16 14:17]` [Comparing asynchronous patterns between C# and JavaScript](https://medium.com/@mattmazzola/comparing-asynchronous-patterns-between-c-and-javascript-2137793d7e37)
 - `[2018-02-15 03:00]` [The Origin of GetHashCode in .NET](http://codingsight.com/the-origin-of-gethashcode-in-net)
 - `[2018-02-13 02:28]` [How To User React's Higher Order Componnets](https://medium.freecodecamp.org/react-higher-order-components-635d0bc38b6c)
 - `[2018-02-12 21:31]` [Saga Middleware for Redux to Handle Side Effects - Interview with Yassine Elouafi](https://survivejs.com/blog/redux-saga-interview)
