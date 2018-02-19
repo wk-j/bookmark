@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-19 11:48]` [Is Async/Await Suitable for Methods That Are Both IO And CPU Bound?](https://stackoverflow.com/questions/14896856/is-async-await-suitable-for-methods-that-are-both-io-and-cpu-bound)
 - `[2018-02-18 04:33]` [Full Emoji List, v11.0](http://unicode.org/emoji/charts/full-emoji-list.html)
 - `[2018-02-17 14:18]` [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 - `[2018-02-16 14:17]` [Comparing Asynchronous Patterns Between C# And JavaScript](https://medium.com/@mattmazzola/comparing-asynchronous-patterns-between-c-and-javascript-2137793d7e37)
