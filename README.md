@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-27 04:24]` [The History of .NET - Richard Campbell](https://www.youtube.com/watch?v=trHTLFNFoWk)
 - `[2018-02-26 15:59]` [Why Getter and Setter Methods Are Evil](https://www.javaworld.com/article/2073723/core-java/why-getter-and-setter-methods-are-evil.html)
 - `[2018-02-23 03:14]` [Creating a Nuget Package - Step by Step](https://www.codeproject.com/Articles/1214420/Creating-a-Nuget-Package-Step-by-Step)
 - `[2018-02-19 11:48]` [Is Async/Await Suitable for Methods That Are Both IO And CPU Bound?](https://stackoverflow.com/questions/14896856/is-async-await-suitable-for-methods-that-are-both-io-and-cpu-bound)
