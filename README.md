@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-02-28 02:25]` [Misunderstanding ES6 Modules, Upgrading Babel, Tears, and a Solution](https://blog.kentcdodds.com/misunderstanding-es6-modules-upgrading-babel-tears-and-a-solution-ad2d5ab93ce0)
 - `[2018-02-28 00:40]` [Available Templates for .NET New](https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new)
 - `[2018-02-27 04:24]` [The History of .NET - Richard Campbell](https://www.youtube.com/watch?v=trHTLFNFoWk)
 - `[2018-02-26 15:59]` [Why Getter and Setter Methods Are Evil](https://www.javaworld.com/article/2073723/core-java/why-getter-and-setter-methods-are-evil.html)
