@@ -1,6 +1,6 @@
 ## My Bookmarks
 
-- `[2018-03-02 03:58]` [Blazor A A Technical Introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/?utm_campaign=dotNET%20Weekly&utm_medium=email&utm_source=week__year_)
+- `[2018-03-02 03:58]` [Blazor A Technical Introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/?utm_campaign=dotNET%20Weekly&utm_medium=email&utm_source=week__year_)
 - `[2018-03-02 02:32]` [.NET Core Global Tools and Gotchas](http://www.natemcmaster.com/blog/2018/02/02/dotnet-global-tool)
 - `[2018-03-02 01:49]` [ASP.NET Core 2.1.0-preview1 Now Available](https://blogs.msdn.microsoft.com/webdev/2018/02/27/asp-net-core-2-1-0-preview1-now-available)
 - `[2018-02-28 17:21]` [How To Move Certificate From IIS To Tomcat](https://www.sslsupportdesk.com/move-certificate-iis-tomcat)
