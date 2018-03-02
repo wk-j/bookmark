@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-03-03 02:03]` [Global Antiforgery Token Validation in ASP.NET Core](https://blog.mariusschulz.com/2017/06/11/global-antiforgery-token-validation-in-asp-net-core)
 - `[2018-03-02 16:28]` [EF Core Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/index)
 - `[2018-03-02 03:58]` [Blazor A Technical Introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/?utm_campaign=dotNET%20Weekly&utm_medium=email&utm_source=week__year_)
 - `[2018-03-02 02:32]` [.NET Core Global Tools and Gotchas](http://www.natemcmaster.com/blog/2018/02/02/dotnet-global-tool)
