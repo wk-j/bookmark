@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-03-08 02:26]` [Response Compression Middleware for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/response-compression)
 - `[2018-03-07 17:51]` [Your've Build The API But What About Security?](https://jonhilton.net/2017/10/11/secure-your-asp.net-core-2.0-api-part-1---issuing-a-jwt)
 - `[2018-03-03 04:37]` [Essential .NET - C# 8.0 and Nullable Reference Types](https://msdn.microsoft.com/en-us/magazine/mt829270)
 - `[2018-03-03 02:45]` [Anti-Forgery Tokens and ASP.NET Core APIs](https://odetocode.com/blogs/scott/archive/2017/02/06/anti-forgery-tokens-and-asp-net-core-apis.aspx)
