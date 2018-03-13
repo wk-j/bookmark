@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-03-13 20:45]` [Animated Page Transitions With React Route 4, ReactTransitionGroup And Animated](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a)
 - `[2018-03-13 12:47]` [How to Install Software From An Old Unsupported Release?](https://askubuntu.com/questions/91815/how-to-install-software-or-upgrade-from-an-old-unsupported-release)
 - `[2018-03-08 02:32]` [ASP.NET Core – ConfigureServices vs Configure](https://codingblast.com/asp-net-core-configureservices-vs-configure)
 - `[2018-03-08 02:26]` [Response Compression Middleware for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/response-compression)
