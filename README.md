@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-03-13 12:47]` [How to Install Software From An Old Unsupported Release?](https://askubuntu.com/questions/91815/how-to-install-software-or-upgrade-from-an-old-unsupported-release)
 - `[2018-03-08 02:32]` [ASP.NET Core – ConfigureServices vs Configure](https://codingblast.com/asp-net-core-configureservices-vs-configure)
 - `[2018-03-08 02:26]` [Response Compression Middleware for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/response-compression)
 - `[2018-03-07 17:51]` [Your've Build The API But What About Security?](https://jonhilton.net/2017/10/11/secure-your-asp.net-core-2.0-api-part-1---issuing-a-jwt)
