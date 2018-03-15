@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-03-15 19:21]` [React — Debounce vs. Throttle](https://medium.com/@kasonjim/react-debounce-vs-throttle-11998bfc3212)
 - `[2018-03-14 23:57]` [C# Local Functions vs. Lambda Expressions](http://mustoverride.com/local_functions)
 - `[2018-03-13 23:38]` [Bootstrap a Reason-React Project With Parcel](https://blog.castiel.me/posts/007-reason-react-parcel.html)
 - `[2018-03-13 20:45]` [Animated Page Transitions With React Route 4, ReactTransitionGroup And Animated](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a)
