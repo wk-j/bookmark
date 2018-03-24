@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-03-24 20:51]` [Go vs C# Part 1 Goroutines vs Async-Await](https://medium.com/@alexyakunin/go-vs-c-part-1-goroutines-vs-async-await-ac909c651c11)
 - `[2018-03-23 18:28]` [Await Async As Async](http://thehumbleprogrammer.com/await-async-as-async)
 - `[2018-03-17 03:14]` [Better than Gzip Compression with Brotli](https://hacks.mozilla.org/2015/11/better-than-gzip-compression-with-brotli)
 - `[2018-03-16 22:26]` [Introducing Support for Brotli Compression](https://blogs.msdn.microsoft.com/dotnet/2017/07/27/introducing-support-for-brotli-compression)
