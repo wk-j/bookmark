@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-03-25 21:50]` [Develop ASP.NET Core Applications in a Container](https://github.com/dotnet/dotnet-docker/blob/master/samples/aspnetapp/aspnet-docker-dev-in-container.md)
 - `[2018-03-24 20:51]` [Go vs C# Part 1 Goroutines vs Async-Await](https://medium.com/@alexyakunin/go-vs-c-part-1-goroutines-vs-async-await-ac909c651c11)
 - `[2018-03-23 18:28]` [Await Async As Async](http://thehumbleprogrammer.com/await-async-as-async)
 - `[2018-03-17 03:14]` [Better than Gzip Compression with Brotli](https://hacks.mozilla.org/2015/11/better-than-gzip-compression-with-brotli)
