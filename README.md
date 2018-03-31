@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-03-31 23:18]` [Exploring 4 Languages: Integrity and Consistency](http://www.chriskrycho.com/2018/exploring-4-languages-integrity-and-consistency.html)
 - `[2018-03-26 13:06]` [Lightweight .NET Core Benchmarking with BenchmarkDotNet and .NET Script](https://www.strathweb.com/2018/03/lightweight-net-core-benchmarking-with-benchmarkdotnet-and-dotnet-script)
 - `[2018-03-25 21:50]` [Develop ASP.NET Core Applications in a Container](https://github.com/dotnet/dotnet-docker/blob/master/samples/aspnetapp/aspnet-docker-dev-in-container.md)
 - `[2018-03-24 20:51]` [Go vs C# Part 1 Goroutines vs Async-Await](https://medium.com/@alexyakunin/go-vs-c-part-1-goroutines-vs-async-await-ac909c651c11)
