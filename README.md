@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-04-04 19:55]` [C# Object Initialization](http://www.csharp411.com/c-object-initialization)
 - `[2018-04-01 21:21]` [Adding Meaning to Primitive Types in F#](https://www.demystifyfp.com/fsharp/blog/adding-meaning-to-primitive-types-in-fsharp)
 - `[2018-03-31 23:18]` [Exploring 4 Languages: Integrity and Consistency](http://www.chriskrycho.com/2018/exploring-4-languages-integrity-and-consistency.html)
 - `[2018-03-26 13:06]` [Lightweight .NET Core Benchmarking with BenchmarkDotNet and .NET Script](https://www.strathweb.com/2018/03/lightweight-net-core-benchmarking-with-benchmarkdotnet-and-dotnet-script)
