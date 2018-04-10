@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-04-11 01:10]` [Why Does "=" Mean Assignment?](https://www.hillelwayne.com/post/equals-as-assignment)
 - `[2018-04-10 01:38]` [The Secret Magic Behind .NET Generics](http://yizhang82.me/dotnet-generics-typeof-t)
 - `[2018-04-06 23:03]` [Introduction of Working with Struct](http://loicbaumann.fr/en/2018/04/04/introduction-of-working-with-struct)
 - `[2018-04-04 19:55]` [C# Object Initialization](http://www.csharp411.com/c-object-initialization)
