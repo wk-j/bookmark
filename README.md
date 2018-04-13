@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-04-14 00:32]` [Creating Your First Blockchain with Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 - `[2018-04-11 20:45]` [Inferring Types in Conditional Types](http://koerbitz.me/posts/inferring-types-in-conditional-types.html)
 - `[2018-04-11 01:10]` [Why Does "=" Mean Assignment?](https://www.hillelwayne.com/post/equals-as-assignment)
 - `[2018-04-10 01:38]` [The Secret Magic Behind .NET Generics](http://yizhang82.me/dotnet-generics-typeof-t)
