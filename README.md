@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-04-25 18:14]` [How Does Stack Overflow Do Pagination?](https://meta.stackoverflow.com/questions/322164/how-does-stack-overflow-do-pagination)
 - `[2018-04-25 12:06]` [Host ASP.NET Core in a Windows Service](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/windows-service)
 - `[2018-04-24 12:46]` [Building a Command Line Tool Using The Swift Package Manager](https://medium.com/@johnsundell/building-a-command-line-tool-using-the-swift-package-manager-3dd96ce360b1)
 - `[2018-04-19 14:37]` [Performance Improvements in .NET Core 2.1](https://blogs.msdn.microsoft.com/dotnet/2018/04/18/performance-improvements-in-net-core-2-1)
