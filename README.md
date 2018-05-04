@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-05-04 23:24]` [Roslyn Configuration Options](https://github.com/OmniSharp/omnisharp-roslyn/wiki/Configuration-Options)
 - `[2018-05-01 12:26]` [Is Null Versus == Null In C#](http://sharkman.asuscomm.com/blog/is-null-versus-null-in-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=featured)
 - `[2018-04-29 05:02]` [5 Things You Should Know About Async/Await In C#](https://binary-studio.com/2014/06/04/5-things-you-should-know-about-asyncawait-in-c)
 - `[2018-04-27 21:57]` [Adding Meaning To Primitive Types in F#](https://www.demystifyfp.com/fsharp/blog/adding-meaning-to-primitive-types-in-fsharp)
