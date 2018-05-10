@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-05-11 02:56]` [The New “in” Keyword For C# 7.2](https://dotnetcoretutorials.com/2018/01/08/new-keyword-c-7-2)
 - `[2018-05-04 23:24]` [Roslyn Configuration Options](https://github.com/OmniSharp/omnisharp-roslyn/wiki/Configuration-Options)
 - `[2018-05-01 12:26]` [Is Null Versus == Null In C#](http://sharkman.asuscomm.com/blog/is-null-versus-null-in-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=featured)
 - `[2018-04-29 05:02]` [5 Things You Should Know About Async/Await In C#](https://binary-studio.com/2014/06/04/5-things-you-should-know-about-asyncawait-in-c)
