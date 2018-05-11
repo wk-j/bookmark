@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-05-11 16:56]` [Understanding How Graal Works](http://chrisseaton.com/truffleruby/jokerconf17)
 - `[2018-05-11 02:56]` [The New “in” Keyword For C# 7.2](https://dotnetcoretutorials.com/2018/01/08/new-keyword-c-7-2)
 - `[2018-05-04 23:24]` [Roslyn Configuration Options](https://github.com/OmniSharp/omnisharp-roslyn/wiki/Configuration-Options)
 - `[2018-05-01 12:26]` [Is Null Versus == Null In C#](http://sharkman.asuscomm.com/blog/is-null-versus-null-in-c/?utm_source=csharpdigest&utm_medium=web&utm_campaign=featured)
