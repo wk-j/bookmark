@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-05-19 01:13]` [The F# Component Design Guidelines](https://fsharp.org/specs/component-design-guidelines)
 - `[2018-05-16 13:32]` [Packaging A Self-Contained .NET Core App For Windows Installer](https://nblumhardt.com/2017/04/netcore-msi)
 - `[2018-05-15 01:52]` [Understanding Async, Avoiding Deadlocks](https://medium.com/rubrikkgroup/understanding-async-avoiding-deadlocks-e41f8f2c6f5d)
 - `[2018-05-11 16:56]` [Understanding How Graal Works](http://chrisseaton.com/truffleruby/jokerconf17)
