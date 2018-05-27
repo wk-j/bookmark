@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-05-28 00:56]` [Why Do We Need Monads?](https://stackoverflow.com/questions/28139259/why-do-we-need-monads)
 - `[2018-05-25 12:38]` [Running A Simple .NET Core Linux Daemon](http://pmcgrath.net/running-a-simple-dotnet-core-linux-daemon)
 - `[2018-05-19 01:13]` [The F# Component Design Guidelines](https://fsharp.org/specs/component-design-guidelines)
 - `[2018-05-16 13:32]` [Packaging A Self-Contained .NET Core App For Windows Installer](https://nblumhardt.com/2017/04/netcore-msi)
