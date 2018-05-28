@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-05-29 02:08]` [Return Any (Task-Like) Type From An Async Method](http://blog.i3arnon.com/2016/07/25/arbitrary-async-returns)
 - `[2018-05-28 01:44]` [Recreating F# Maybe Computation Expression In C#](http://blog.neteril.org/blog/2017/04/26/maybe-computation-expression-csharp)
 - `[2018-05-28 00:56]` [Why Do We Need Monads?](https://stackoverflow.com/questions/28139259/why-do-we-need-monads)
 - `[2018-05-25 12:38]` [Running A Simple .NET Core Linux Daemon](http://pmcgrath.net/running-a-simple-dotnet-core-linux-daemon)
