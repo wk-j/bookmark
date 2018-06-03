@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-03 22:58]` [he Marvels of Monads](https://blogs.msdn.microsoft.com/wesdyer/2008/01/10/the-marvels-of-monads)
 - `[2018-06-03 22:53]` [Following The Pattern](https://blogs.msdn.microsoft.com/ericlippert/2011/06/30/following-the-pattern)
 - `[2018-05-31 03:01]` [Magic Methods in C#](https://blog.nem.ec/2014/01/01/magic-methods-c-sharp)
 - `[2018-05-29 02:08]` [Return Any (Task-Like) Type From An Async Method](http://blog.i3arnon.com/2016/07/25/arbitrary-async-returns)
