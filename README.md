@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-04 22:43]` [Primitive Obsession](https://sourcemaking.com/refactoring/smells/primitive-obsession)
 - `[2018-06-04 22:41]` [Never Never Never Use String in Java](http://codemonkeyism.com/never-never-never-use-string-in-java-or-at-least-less-often)
 - `[2018-06-04 01:30]` [F# – Duck Typing and Structural Typin](http://codebetter.com/matthewpodwysocki/2009/06/11/f-duck-typing-and-structural-typing)
 - `[2018-06-04 01:00]` [Type System Differences in TypeScript (Structural Type System) VS C# & Java (Nominal Type System)](https://www.triplet.fi/blog/type-system-differences-in-typescript-structural-type-system-vs-c-java-nominal-type-system)
