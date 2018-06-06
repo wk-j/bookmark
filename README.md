@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-07 00:54]` [Programming in Hopac](https://github.com/Hopac/Hopac/blob/master/Docs/Programming.md)
 - `[2018-06-06 02:01]` [Typs of Confusion](https://blogs.msdn.microsoft.com/wesdyer/2006/12/20/types-of-confusion)
 - `[2018-06-06 01:04]` [C# 7.2 in Rider and ReSharper](https://blog.jetbrains.com/dotnet/2018/05/10/readonly-structs-ref-readonly-conditional-ref-expressions-c-7-2-rider-resharper)
 - `[2018-06-04 22:43]` [Primitive Obsession](https://sourcemaking.com/refactoring/smells/primitive-obsession)
