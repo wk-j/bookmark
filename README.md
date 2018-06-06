@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-07 01:28]` [Pattern Matching F# Constructs In C# 7](https://www.reddit.com/r/fsharp/comments/4d2g3q/pattern_matching_f_constructs_in_c7)
 - `[2018-06-07 00:54]` [Programming in Hopac](https://github.com/Hopac/Hopac/blob/master/Docs/Programming.md)
 - `[2018-06-06 02:01]` [Typs of Confusion](https://blogs.msdn.microsoft.com/wesdyer/2006/12/20/types-of-confusion)
 - `[2018-06-06 01:04]` [C# 7.2 in Rider and ReSharper](https://blog.jetbrains.com/dotnet/2018/05/10/readonly-structs-ref-readonly-conditional-ref-expressions-c-7-2-rider-resharper)
