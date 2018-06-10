@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-11 02:37]` [Ninety-nine Problems, Solved in Elm](https://legacy.gitbook.com/book/johncrane/ninety-nine-elm-problems/details)
 - `[2018-06-09 22:38]` [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 - `[2018-06-07 01:28]` [Pattern Matching F# Constructs In C# 7](https://www.reddit.com/r/fsharp/comments/4d2g3q/pattern_matching_f_constructs_in_c7)
 - `[2018-06-07 00:54]` [Programming in Hopac](https://github.com/Hopac/Hopac/blob/master/Docs/Programming.md)
