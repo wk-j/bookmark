@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-11 02:57]` [L-99: Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 - `[2018-06-11 02:51]` [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99)
 - `[2018-06-11 02:37]` [Ninety-nine Problems, Solved in Elm](https://legacy.gitbook.com/book/johncrane/ninety-nine-elm-problems/details)
 - `[2018-06-09 22:38]` [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
