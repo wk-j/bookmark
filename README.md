@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-11 18:43]` [Microsoft.FSharp.Primitives.Basics.List?](https://twitter.com/ploeh/status/678630211571838976)
 - `[2018-06-11 12:43]` [No Virtual Keyword In Java And No Final Keyword In C# Explained](https://kudchikarsk.github.io/no-virtual-keyword-in-java-and-no-final-keyword-in-csharp-explained)
 - `[2018-06-11 02:57]` [L-99: Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 - `[2018-06-11 02:51]` [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99)
