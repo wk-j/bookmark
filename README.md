@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-13 13:38]` [Binary Floating Point And .NET](http://csharpindepth.com/Articles/General/FloatingPoint.aspx)
 - `[2018-06-12 10:50]` [ASP.NET Core Architect David Fowler's Hidden Gems In 2.1](https://www.hanselman.com/blog/ASPNETCoreArchitectDavidFowlersHiddenGemsIn21.aspx)
 - `[2018-06-11 12:43]` [No Virtual Keyword In Java And No Final Keyword In C# Explained](https://kudchikarsk.github.io/no-virtual-keyword-in-java-and-no-final-keyword-in-csharp-explained)
 - `[2018-06-11 02:57]` [L-99: Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
