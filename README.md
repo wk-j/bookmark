@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-13 13:41]` [Floating Point in .NET part 1: Concepts and Formats](http://www.extremeoptimization.com/resources/Articles/FPDotNetConceptsAndFormats.aspx)
 - `[2018-06-13 13:38]` [Binary Floating Point And .NET](http://csharpindepth.com/Articles/General/FloatingPoint.aspx)
 - `[2018-06-12 10:50]` [ASP.NET Core Architect David Fowler's Hidden Gems In 2.1](https://www.hanselman.com/blog/ASPNETCoreArchitectDavidFowlersHiddenGemsIn21.aspx)
 - `[2018-06-11 12:43]` [No Virtual Keyword In Java And No Final Keyword In C# Explained](https://kudchikarsk.github.io/no-virtual-keyword-in-java-and-no-final-keyword-in-csharp-explained)
