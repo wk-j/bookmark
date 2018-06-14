@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-15 01:11]` [Use Banker's Rounding And Normal Rounding In C#](http://csharphelper.com/blog/2017/01/use-bankers-rounding-and-normal-rounding-in-c)
 - `[2018-06-14 22:52]` [IEEE Standard 754 Floating Point Numbers](http://steve.hollasch.net/cgindex/coding/ieeefloat.html)
 - `[2018-06-14 16:51]` [Visual F# 4.0](https://github.com/Microsoft/visualfsharp/blob/fsharp4/CHANGELOG.md)
 - `[2018-06-13 13:41]` [Floating Point in .NET part 1: Concepts and Formats](http://www.extremeoptimization.com/resources/Articles/FPDotNetConceptsAndFormats.aspx)
