@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-16 22:05]` [Tools for Exploring .NET Internals](http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals)
 - `[2018-06-15 02:27]` [Decimal vs Double and Other Tips About Number Types in .NET](https://www.exceptionnotfound.net/decimal-vs-double-and-other-tips-about-number-types-in-net)
 - `[2018-06-15 01:11]` [Use Banker's Rounding And Normal Rounding In C#](http://csharphelper.com/blog/2017/01/use-bankers-rounding-and-normal-rounding-in-c)
 - `[2018-06-14 22:52]` [IEEE Standard 754 Floating Point Numbers](http://steve.hollasch.net/cgindex/coding/ieeefloat.html)
