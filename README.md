@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-18 14:25]` [Is Uncle Bob Serious?](https://dev.to/bosepchuk/is-uncle-bob-serious-dhi)
 - `[2018-06-18 02:25]` [A Few Things You Might Not Know About System.Nullable](http://www.somethingorothersoft.com/2010/05/29/a-few-things-you-might-not-know-about-system-nullable)
 - `[2018-06-16 22:05]` [Tools for Exploring .NET Internals](http://mattwarren.org/2018/06/15/Tools-for-Exploring-.NET-Internals)
 - `[2018-06-15 02:27]` [Decimal vs Double and Other Tips About Number Types in .NET](https://www.exceptionnotfound.net/decimal-vs-double-and-other-tips-about-number-types-in-net)
