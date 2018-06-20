@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-21 01:48]` [C# Language Feature Status](https://github.com/dotnet/roslyn/blob/master/docs/Language%20Feature%20Status.md)
 - `[2018-06-20 18:04]` [Hash Code](https://github.com/dotnet/corefx/blob/103639b6ff5aa6ab6097f70732530e411817f09b/src/Common/src/CoreLib/System/HashCode.cs)
 - `[2018-06-20 18:01]` [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize)
 - `[2018-06-19 03:17]` [Types vs TDD](http://chris.eidhof.nl/post/types-vs-tdd)
