@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-06-23 23:14]` [C# Tip - How To Check If Two Double Values Are Equal](https://scottlilly.com/c-tip-how-to-check-if-two-double-values-are-equal)
 - `[2018-06-23 01:51]` [C# Object Initialization](http://www.csharp411.com/c-object-initialization)
 - `[2018-06-22 21:26]` [Easier GetHashCode implementation in .NET Core 2.1](https://www.tabsoverspaces.com/233725-easier-gethashcode-implementation-in-net-core-2-1)
 - `[2018-06-21 15:10]` [Deep Dive into Microsoft Configuration](http://www.paraesthesia.com/archive/2018/06/20/microsoft-extensions-configuration-deep-dive)
