@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-03 03:03]` [Pipelines - A Guided Tour Of The New IO API In .NET](https://blog.marcgravell.com/2018/07/pipe-dreams-part-1.html)
 - `[2018-07-02 20:16]` [I don't think I like default](https://twitter.com/Nick_Craver/status/1013580307637964800)
 - `[2018-07-02 17:22]` [Inline Fun Part IV – Type Classes for F#](http://nut-cracker.azurewebsites.net/blog/2011/11/15/typeclasses-for-fsharp)
 - `[2018-07-02 11:34]` [Dependency Injection In Attributes: Don't Do It](https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=98)
