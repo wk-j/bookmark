@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-02 11:34]` [Dependency Injection In Attributes: Don't Do It](https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=98)
 - `[2018-07-01 03:57]` [Async/Await In A Console Application](https://www.recaffeinate.co/post/how-to-await-console-application)
 - `[2018-06-30 15:54]` [Magical Domain Modelling With F#](https://blog.scottlogic.com/2018/06/01/magical-domain-modelling-with-fsharp.html)
 - `[2018-06-29 01:12]` [Introducing .NET Core 2.1 Flagship Types: Span T and Memory T](https://www.codemag.com/Article/1807051/Introducing-.NET-Core-2.1-Flagship-Types-Span-T-and-Memory-T)
