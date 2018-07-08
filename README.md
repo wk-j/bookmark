@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-08 22:22]` [Implementing A Persistent Hash Map](https://gist.github.com/mrange/d6e7415113ebfa52ccb660f4ce534dd4)
 - `[2018-07-05 15:42]` [History Around Pascal Casing and Camel Casing](https://blogs.msdn.microsoft.com/brada/2004/02/03/history-around-pascal-casing-and-camel-casing)
 - `[2018-07-04 16:48]` [Https In Development](https://blogs.msdn.microsoft.com/webdev/2018/02/27/asp-net-core-2-1-https-improvements/)
 - `[2018-07-03 03:03]` [Pipelines - A Guided Tour Of The New IO API In .NET](https://blog.marcgravell.com/2018/07/pipe-dreams-part-1.html)
