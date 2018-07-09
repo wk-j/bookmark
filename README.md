@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-09 19:17]` [Knuth Shuffle](https://www.rosettacode.org/wiki/Knuth_shuffle)
 - `[2018-07-08 22:39]` [Threading in C#](http://www.albahari.com/threading)
 - `[2018-07-08 22:22]` [Implementing A Persistent Hash Map](https://gist.github.com/mrange/d6e7415113ebfa52ccb660f4ce534dd4)
 - `[2018-07-05 15:42]` [History Around Pascal Casing and Camel Casing](https://blogs.msdn.microsoft.com/brada/2004/02/03/history-around-pascal-casing-and-camel-casing)
