@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-16 02:55]` [Monads Explained In C# (Again)](https://mikhail.io/2018/07/monads-explained-in-csharp-again)
 - `[2018-07-13 11:58]` [Presentations and Talks covering '.NET Internals'](http://mattwarren.org/2018/07/12/Presentations-and-Talks-covering-.NET-Internals)
 - `[2018-07-09 19:17]` [Knuth Shuffle](https://www.rosettacode.org/wiki/Knuth_shuffle)
 - `[2018-07-08 22:39]` [Threading in C#](http://www.albahari.com/threading)
