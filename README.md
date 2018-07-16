@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-16 16:19]` [A Super-Simplified Explanation of .NET Garbage Collection](http://benhall.io/a-super-simplified-explanation-of-net-garbage-collection)
 - `[2018-07-16 03:29]` [Async In Depth](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth)
 - `[2018-07-16 02:55]` [Monads Explained In C# (Again)](https://mikhail.io/2018/07/monads-explained-in-csharp-again)
 - `[2018-07-13 11:58]` [Presentations and Talks covering '.NET Internals'](http://mattwarren.org/2018/07/12/Presentations-and-Talks-covering-.NET-Internals)
