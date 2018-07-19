@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-20 00:30]` [Implementing Custom IValueTaskSource - Async Without Allocations](http://tooslowexception.com/implementing-custom-ivaluetasksource-async-without-allocations)
 - `[2018-07-19 12:37]` [Configure Windows authentication in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/windowsauth?view=aspnetcore-2.1&tabs=aspnetcore2x)
 - `[2018-07-19 12:17]` [HTTP.sys Web Server Implementation In ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/httpsys?view=aspnetcore-2.1)
 - `[2018-07-18 16:54]` [Adding Basic Auth To Your MVC application in .NET Core](https://www.johanbostrom.se/blog/adding-basic-auth-to-your-mvc-application-in-dotnet-core)
