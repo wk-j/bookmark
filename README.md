@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-21 02:43]` [Exploring ActionResult<T> in ASP.NET Core 2.1](https://joonasw.net/view/aspnet-core-2-1-actionresult-of-t)
 - `[2018-07-21 02:42]` [Exploring the ApiControllerAttribute and its features for ASP.NET Core MVC 2.1](https://www.strathweb.com/2018/02/exploring-the-apicontrollerattribute-and-its-features-for-asp-net-core-mvc-2-1)
 - `[2018-07-20 14:55]` [Creating A Rolling File Logging Provider For ASP.NET Core 2.0](https://andrewlock.net/creating-a-rolling-file-logging-provider-for-asp-net-core-2-0)
 - `[2018-07-20 02:18]` [Checking For Empty Enumerations](https://haacked.com/archive/2010/06/10/checking-for-empty-enumerations.aspx)
