@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-20 14:55]` [Creating A Rolling File Logging Provider For ASP.NET Core 2.0](https://andrewlock.net/creating-a-rolling-file-logging-provider-for-asp-net-core-2-0)
 - `[2018-07-20 02:18]` [Checking For Empty Enumerations](https://haacked.com/archive/2010/06/10/checking-for-empty-enumerations.aspx)
 - `[2018-07-20 00:39]` [Task, Async Await, ValueTask, IValueTaskSource](https://blog.scooletz.com/2018/05/14/task-async-await-valuetask-ivaluetasksource-and-how-to-keep-your-sanity-in-modern-net-world)
 - `[2018-07-20 00:30]` [Implementing Custom IValueTaskSource - Async Without Allocations](http://tooslowexception.com/implementing-custom-ivaluetasksource-async-without-allocations)
