@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-24 01:26]` [Alex Papadimoulis in Tales From The Interview](http://thedailywtf.com/articles/My-Tales)
 - `[2018-07-23 14:22]` [.NET Exceptions – System.Threading.ThreadAbortException](https://airbrake.io/blog/dotnet-exception-handling/system-threading-threadabortexception)
 - `[2018-07-23 13:32]` [List of 80 C# Interview Questions](https://www.reddit.com/r/csharp/comments/90pufd/list_of_80_c_interview_questions)
 - `[2018-07-22 16:17]` [Writing APIs in ASP.NET Core 2.1 with the ApiController Attribute](https://rolandguijt.com/the-good-apicontroller-does-in-asp-net-core-2-1)
