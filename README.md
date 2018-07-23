@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-23 13:32]` [List of 80 C# Interview Questions](https://www.reddit.com/r/csharp/comments/90pufd/list_of_80_c_interview_questions)
 - `[2018-07-22 16:17]` [Writing APIs in ASP.NET Core 2.1 with the ApiController Attribute](https://rolandguijt.com/the-good-apicontroller-does-in-asp-net-core-2-1)
 - `[2018-07-21 02:43]` [Exploring ActionResult<T> in ASP.NET Core 2.1](https://joonasw.net/view/aspnet-core-2-1-actionresult-of-t)
 - `[2018-07-21 02:42]` [Exploring the ApiControllerAttribute and its features for ASP.NET Core MVC 2.1](https://www.strathweb.com/2018/02/exploring-the-apicontrollerattribute-and-its-features-for-asp-net-core-mvc-2-1)
