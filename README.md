@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-26 23:33]` [An Opinionated Guide To Haskell In 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018)
 - `[2018-07-26 21:29]` [IO Monad](https://github.com/Patient0/IOMonad)
 - `[2018-07-24 03:08]` [C# 6 Exception Filters And How They Are Much More Than Syntactic Sugar](http://volatileread.com/Wiki/Index?id=1087)
 - `[2018-07-24 01:26]` [Alex Papadimoulis in Tales From The Interview](http://thedailywtf.com/articles/My-Tales)
