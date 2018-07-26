@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-07-27 00:10]` [Practical Haskell - Getting Started With Stack](http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html)
 - `[2018-07-26 23:33]` [An Opinionated Guide To Haskell In 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018)
 - `[2018-07-26 21:29]` [IO Monad](https://github.com/Patient0/IOMonad)
 - `[2018-07-24 03:08]` [C# 6 Exception Filters And How They Are Much More Than Syntactic Sugar](http://volatileread.com/Wiki/Index?id=1087)
