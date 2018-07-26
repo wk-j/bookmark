@@ -1,6 +1,5 @@
 ## My Bookmarks
 
-- `[2018-07-26 21:58]` [Haskell For C# 3 Programmers](http://themechanicalbride.blogspot.com/2007/04/haskell-for-c-3-programmers.html)
 - `[2018-07-26 21:29]` [IO Monad](https://github.com/Patient0/IOMonad)
 - `[2018-07-24 03:08]` [C# 6 Exception Filters And How They Are Much More Than Syntactic Sugar](http://volatileread.com/Wiki/Index?id=1087)
 - `[2018-07-24 01:26]` [Alex Papadimoulis in Tales From The Interview](http://thedailywtf.com/articles/My-Tales)
