@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-06 03:12]` [The .NET Portability Analyzer](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer)
 - `[2018-08-05 20:28]` [Fun With Code Diagonistic Analyzer](https://davefancher.com/2014/11/19/fun-with-code-diagnostic-analyzers)
 - `[2018-08-05 19:58]` [My First Diagnostic With Code Fix Using Roslyn API](https://marcinjuraszek.com/2014/04/my-first-diagnostic-with-code-fix-using-roslyn-api.html)
 - `[2018-08-04 02:18]` [C# Compiler Strict Mode](https://www.meziantou.net/2018/07/30/c-compiler-strict-mode)
