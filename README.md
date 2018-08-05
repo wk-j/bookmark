@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-05 19:58]` [My First Diagnostic With Code Fix Using Roslyn API](https://marcinjuraszek.com/2014/04/my-first-diagnostic-with-code-fix-using-roslyn-api.html)
 - `[2018-08-04 02:18]` [C# Compiler Strict Mode](https://www.meziantou.net/2018/07/30/c-compiler-strict-mode)
 - `[2018-07-27 00:10]` [Practical Haskell - Getting Started With Stack](http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html)
 - `[2018-07-26 23:33]` [An Opinionated Guide To Haskell In 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018)
