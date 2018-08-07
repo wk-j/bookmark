@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-08 02:30]` [How to Use New Features of MSBuild 15 with .NET Framework](http://lunarfrog.com/blog/how-to-use-msbuild15-net-framework)
 - `[2018-08-07 02:51]` [Typey Type](https://didoesdigital.com/typey-type)
 - `[2018-08-05 20:28]` [Fun With Code Diagonistic Analyzer](https://davefancher.com/2014/11/19/fun-with-code-diagnostic-analyzers)
 - `[2018-08-05 19:58]` [My First Diagnostic With Code Fix Using Roslyn API](https://marcinjuraszek.com/2014/04/my-first-diagnostic-with-code-fix-using-roslyn-api.html)
