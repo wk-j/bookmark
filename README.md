@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-15 18:14]` [Logging in .Net Core Console Apps](https://www.blinkingcaret.com/2018/02/14/net-core-console-logging)
 - `[2018-08-14 00:58]` [Compiling C# Code Into Memory and Executing It with Roslyn](http://www.tugberkugurlu.com/archive/compiling-c-sharp-code-into-memory-and-executing-it-with-roslyn)
 - `[2018-08-13 20:34]` [Inline IL ASM in C# with Roslyn](http://xoofx.com/blog/2016/05/25/inline-il-asm-in-csharp-with-roslyn)
 - `[2018-08-10 02:51]` [Custom == Operator Should We Keep It?](https://blogs.unity3d.com/2014/05/16/custom-operator-should-we-keep-it)
