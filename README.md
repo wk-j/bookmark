@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-16 11:09]` [Nullable Comparisons Are Weird](https://ericlippert.com/2015/08/31/nullable-comparisons-are-weird)
 - `[2018-08-16 02:40]` [Improvements to MSBuild 15](https://gist.github.com/jeffkl/37b14b0601bafbdc9462afa8b288fadc)
 - `[2018-08-15 18:14]` [Logging in .Net Core Console Apps](https://www.blinkingcaret.com/2018/02/14/net-core-console-logging)
 - `[2018-08-14 00:58]` [Compiling C# Code Into Memory and Executing It with Roslyn](http://www.tugberkugurlu.com/archive/compiling-c-sharp-code-into-memory-and-executing-it-with-roslyn)
