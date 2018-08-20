@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-20 23:47]` [HttpClientFactory in ASP.NET Core 2.1](https://www.stevejgordon.co.uk/introduction-to-httpclientfactory-aspnetcore)
 - `[2018-08-16 13:59]` [Top 10 Worst C# Features](http://www.informit.com/articles/article.aspx?p=2425867&ranMID=24808)
 - `[2018-08-16 11:09]` [Nullable Comparisons Are Weird](https://ericlippert.com/2015/08/31/nullable-comparisons-are-weird)
 - `[2018-08-16 02:40]` [Improvements to MSBuild 15](https://gist.github.com/jeffkl/37b14b0601bafbdc9462afa8b288fadc)
