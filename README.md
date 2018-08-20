@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-21 00:17]` [Singleton HttpClient? Beware Of This Serious Behavior And How To Fix It](http://byterot.blogspot.com/2016/07/singleton-httpclient-dns.html)
 - `[2018-08-20 23:50]` [You're Using HttpClient Wrong and it is Destabilizing Your Software](https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong)
 - `[2018-08-20 23:47]` [HttpClientFactory in ASP.NET Core 2.1](https://www.stevejgordon.co.uk/introduction-to-httpclientfactory-aspnetcore)
 - `[2018-08-16 13:59]` [Top 10 Worst C# Features](http://www.informit.com/articles/article.aspx?p=2425867&ranMID=24808)
