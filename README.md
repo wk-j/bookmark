@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-21 12:24]` [How To Rethrow Exception Correctly in .NET](https://berserkerdotnet.github.io/blog/rethrow-exception-correctly-in-dotnet)
 - `[2018-08-21 01:02]` [Working with the HttpClient Class](https://www.red-gate.com/simple-talk/dotnet/c-programming/working-with-the-httpclient-class)
 - `[2018-08-21 00:39]` [HttpClient and HttpClientFactory in ASP.NET Core](https://thinkrethink.net/2018/07/25/httpclient-httpclientfactory-asp-net-core)
 - `[2018-08-21 00:17]` [Singleton HttpClient? Beware Of This Serious Behavior And How To Fix It](http://byterot.blogspot.com/2016/07/singleton-httpclient-dns.html)
