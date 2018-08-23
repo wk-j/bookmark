@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-23 21:25]` [Deploying ASP.NET Core to Google Cloud](https://dotnetcoretutorials.com/2017/04/07/deploying-asp-net-core-google-cloud)
 - `[2018-08-21 13:10]` [Preserving a Stack Trace When Retrowing Exception With ExceptionDispatcherInfo](http://derpturkey.com/preserving-a-stacktrace-when-rethrowing-exception-with-exceptiondispatchinfo)
 - `[2018-08-21 12:24]` [How To Rethrow Exception Correctly in .NET](https://berserkerdotnet.github.io/blog/rethrow-exception-correctly-in-dotnet)
 - `[2018-08-21 01:02]` [Working with the HttpClient Class](https://www.red-gate.com/simple-talk/dotnet/c-programming/working-with-the-httpclient-class)
