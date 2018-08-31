@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-08-31 17:14]` [Globalization and localization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-2.1)
 - `[2018-08-31 01:01]` [Runtime Configuration Files](https://github.com/dotnet/cli/blob/v2.0.0/Documentation/specs/runtime-configuration-file.md)
 - `[2018-08-30 16:22]` [.NET Core 3.0 Intrinsics in Real Life](https://bits.houmus.org/2018-08-18/netcoreapp3.0-instrinsics-in-real-life-pt1)
 - `[2018-08-29 22:29]` [Deep Dive Into .NET Core Primitive Part 1](https://natemcmaster.com/blog/2017/12/21/netcore-primitives)
