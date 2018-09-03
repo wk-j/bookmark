@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-04 00:52]` [Postmortems - Tale of Two Casts](http://benbowen.blog/post/tale_of_two_casts)
 - `[2018-09-02 00:01]` [Comparing Double.NaN with Itself](https://stackoverflow.com/questions/14458890/comparing-double-nan-with-itself)
 - `[2018-08-31 17:14]` [Globalization and localization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-2.1)
 - `[2018-08-31 01:01]` [Runtime Configuration Files](https://github.com/dotnet/cli/blob/v2.0.0/Documentation/specs/runtime-configuration-file.md)
