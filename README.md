@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-04 23:49]` [Faster List Add](https://github.com/dotnet/coreclr/pull/9539)
 - `[2018-09-04 15:20]` [Range Change Optimization](https://stackoverflow.com/questions/29343533/is-it-more-efficient-to-perform-a-range-check-by-casting-to-uint-instead-of-chec/29344103)
 - `[2018-09-04 15:16]` [Performance Improvements in RyuJIT in .NET Core and .NET Framework](https://blogs.msdn.microsoft.com/dotnet/2017/06/29/performance-improvements-in-ryujit-in-net-core-and-net-framework)
 - `[2018-09-04 15:16]` [Arrays and the CLR - a Very Special Relationship](http://mattwarren.org/2017/05/08/Arrays-and-the-CLR-a-Very-Special-Relationship)
