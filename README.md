@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-04 15:16]` [Performance Improvements in RyuJIT in .NET Core and .NET Framework](https://blogs.msdn.microsoft.com/dotnet/2017/06/29/performance-improvements-in-ryujit-in-net-core-and-net-framework)
 - `[2018-09-04 15:16]` [Arrays and the CLR - a Very Special Relationship](http://mattwarren.org/2017/05/08/Arrays-and-the-CLR-a-Very-Special-Relationship)
 - `[2018-09-04 00:52]` [Postmortems - Tale of Two Casts](http://benbowen.blog/post/tale_of_two_casts)
 - `[2018-09-02 00:01]` [Comparing Double.NaN with Itself](https://stackoverflow.com/questions/14458890/comparing-double-nan-with-itself)
