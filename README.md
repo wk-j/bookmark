@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-06 02:03]` [C# 7 Is Operator Pattern - You Won't Need 'As' As Often](https://www.danielcrabtree.com/blog/152/c-sharp-7-is-operator-patterns-you-wont-need-as-as-often)
 - `[2018-09-05 11:40]` [What Is The Difference Between Casting And Coercing](https://stackoverflow.com/questions/8857763/what-is-the-difference-between-casting-and-coercing)
 - `[2018-09-04 23:49]` [Faster List Add](https://github.com/dotnet/coreclr/pull/9539)
 - `[2018-09-04 15:20]` [Range Check Optimization](https://stackoverflow.com/questions/29343533/is-it-more-efficient-to-perform-a-range-check-by-casting-to-uint-instead-of-chec/29344103)
