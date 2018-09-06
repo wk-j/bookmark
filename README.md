@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-06 18:51]` [Use C#7 Is Operator To Remove Additional Cast](https://github.com/dotnet/corefx/pull/32131/files)
 - `[2018-09-06 11:00]` [Colours In Terminal](https://gist.github.com/XVilka/8346728)
 - `[2018-09-06 02:35]` [== vs Object.Equals in .NET](https://stackoverflow.com/questions/112625/vs-object-equalsobject-in-net)
 - `[2018-09-06 02:03]` [C# 7 Is Operator Pattern - You Won't Need 'As' As Often](https://www.danielcrabtree.com/blog/152/c-sharp-7-is-operator-patterns-you-wont-need-as-as-often)
