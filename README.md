@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-07 13:28]` [Exploring C# 7](https://davidpine.net/blog/exploring-csharp-seven)
 - `[2018-09-07 12:43]` [Void-Free Style in C# 7.0](https://programming.lansky.name/void-free-style)
 - `[2018-09-06 18:51]` [Use C#7 Is Operator To Remove Additional Cast](https://github.com/dotnet/corefx/pull/32131/files)
 - `[2018-09-06 11:00]` [Colours In Terminal](https://gist.github.com/XVilka/8346728)
