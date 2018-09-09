@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-10 03:23]` [Windows Metric Dashboards with InfluxDB and Grafana](https://hodgkins.io/windows-metric-dashboards-with-influxdb-and-grafana)
 - `[2018-09-10 01:33]` [Real-Time Performance Monitoring in .NET Core With Grafana, InfluxDB, and Docker](https://dzone.com/articles/real-time-performance-monitoring-in-net-core-with)
 - `[2018-09-09 19:38]` [Verifying Your Own .NET IL-Code](https://www.dynatrace.com/news/blog/verifying-your-own-dotnet-il-code/)
 - `[2018-09-07 13:28]` [Exploring C# 7](https://davidpine.net/blog/exploring-csharp-seven)
