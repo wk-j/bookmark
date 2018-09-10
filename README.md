@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-11 01:44]` [JSON Schema Draft-07 Release Notes](https://json-schema.org/draft-07/json-schema-release-notes.html)
 - `[2018-09-10 14:43]` [Monitoring With Telegraf InfluxDB and Grafana](https://angristan.xyz/monitoring-telegraf-influxdb-grafana)
 - `[2018-09-10 03:23]` [Windows Metric Dashboards with InfluxDB and Grafana](https://hodgkins.io/windows-metric-dashboards-with-influxdb-and-grafana)
 - `[2018-09-10 01:33]` [Real-Time Performance Monitoring in .NET Core With Grafana, InfluxDB, and Docker](https://dzone.com/articles/real-time-performance-monitoring-in-net-core-with)
