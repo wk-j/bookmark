@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-12 17:30]` [How Setup and Configure Docker Swarm Cluster on Ubuntu](https://www.howtoforge.com/tutorial/ubuntu-docker-swarm-cluster/#step-deploying-first-service-to-the-cluster)
 - `[2018-09-12 17:21]` [ How to Install and Use Docker on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
 - `[2018-09-12 14:31]` [Orchestrate Containers With Docker Cloud](https://devblog.dymel.pl/2017/09/05/deploy-docker-cloud)
 - `[2018-09-12 12:58]` [Why Are Overloaded Operators Always Static In C#?](https://blogs.msdn.microsoft.com/ericlippert/2007/05/14/why-are-overloaded-operators-always-static-in-c)
