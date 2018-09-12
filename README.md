@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-12 14:31]` [Orchestrate Containers With Docker Cloud](https://devblog.dymel.pl/2017/09/05/deploy-docker-cloud)
 - `[2018-09-12 12:58]` [Why Are Overloaded Operators Always Static In C#?](https://blogs.msdn.microsoft.com/ericlippert/2007/05/14/why-are-overloaded-operators-always-static-in-c)
 - `[2018-09-12 11:21]` [Microsoft.AspNetCore.App metapackage for ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/metapackage-app?view=aspnetcore-2.1)
 - `[2018-09-11 01:44]` [JSON Schema Draft-07 Release Notes](https://json-schema.org/draft-07/json-schema-release-notes.html)
