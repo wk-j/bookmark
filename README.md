@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-17 01:25]` [Is The Repository Pattern Useful With EF Core?](https://www.thereformedprogrammer.net/is-the-repository-pattern-useful-with-entity-framework-core)
 - `[2018-09-17 00:43]` [In Defense of Lazy Loading](https://enterprisecraftsmanship.com/2018/09/10/defense-lazy-loading)
 - `[2018-09-17 00:40]` [Avoid Lazy Loading Entities in ASP.NET Applications](https://ardalis.com/avoid-lazy-loading-entities-in-asp-net-applications)
 - `[2018-09-12 17:30]` [How Setup and Configure Docker Swarm Cluster on Ubuntu](https://www.howtoforge.com/tutorial/ubuntu-docker-swarm-cluster/#step-deploying-first-service-to-the-cluster)
