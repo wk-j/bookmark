@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-20 01:46]` [Advanced Multi-Stage Build Pattern](https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae)
 - `[2018-09-17 01:48]` [Is The Repository Pattern Useful With EF?](https://www.thereformedprogrammer.net/is-the-repository-pattern-useful-with-entity-framework)
 - `[2018-09-17 01:44]` [Why Entity Framework Renders The Repository Pattern Obsolete?](https://cockneycoder.wordpress.com/2013/04/07/why-entity-framework-renders-the-repository-pattern-obsolete)
 - `[2018-09-17 01:25]` [Is The Repository Pattern Useful With EF Core?](https://www.thereformedprogrammer.net/is-the-repository-pattern-useful-with-entity-framework-core)
