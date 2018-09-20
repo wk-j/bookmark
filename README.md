@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-20 15:56]` [Dynamically Building a Model with Code First](https://romiller.com/2012/03/26/dynamically-building-a-model-with-code-first)
 - `[2018-09-20 14:34]` [Entity Framework Core: Use TransactionScope with Caution](http://weblogs.thinktecture.com/pawel/2018/06/entity-framework-core-use-transactionscope-with-caution.html)
 - `[2018-09-20 01:46]` [Advanced Multi-Stage Build Pattern](https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae)
 - `[2018-09-17 01:48]` [Is The Repository Pattern Useful With EF?](https://www.thereformedprogrammer.net/is-the-repository-pattern-useful-with-entity-framework)
