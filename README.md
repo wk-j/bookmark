@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-23 02:15]` [When The Scala Compiler Doesn't Help](http://www.latkin.org/blog/2017/05/02/when-the-scala-compiler-doesnt-help)
 - `[2018-09-23 00:26]` [C# Debug vs. Release builds and debugging in Visual Studio](http://benhall.io/c-debug-vs-release-builds-and-debugging-in-visual-studio-from-novice-to-expert-in-one-blog-article)
 - `[2018-09-20 15:56]` [Dynamically Building a Model with Code First](https://romiller.com/2012/03/26/dynamically-building-a-model-with-code-first)
 - `[2018-09-20 14:34]` [Entity Framework Core: Use TransactionScope with Caution](http://weblogs.thinktecture.com/pawel/2018/06/entity-framework-core-use-transactionscope-with-caution.html)
