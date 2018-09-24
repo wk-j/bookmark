@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-09-24 13:29]` [Loading ASP.NET Core MVC Views From A Database Or Other Location](https://www.mikesdotnetting.com/article/301/loading-asp-net-core-mvc-views-from-a-database-or-other-location)
 - `[2018-09-24 13:22]` [Loading ASP.NET Core MVC Views From A Database Or Other Location](https://www.mikesdotnetting.com/article/301/loading-asp-net-core-mvc-views-from-a-database-or-other-location)
 - `[2018-09-23 02:15]` [When The Scala Compiler Doesn't Help](http://www.latkin.org/blog/2017/05/02/when-the-scala-compiler-doesnt-help)
 - `[2018-09-23 00:26]` [C# Debug vs. Release builds and debugging in Visual Studio](http://benhall.io/c-debug-vs-release-builds-and-debugging-in-visual-studio-from-novice-to-expert-in-one-blog-article)
