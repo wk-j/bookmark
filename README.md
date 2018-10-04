@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-10-04 23:34]` [Using DDD, CQRS, Event Sourcing With A Vague, Fast Changing Domain](http://blog.sapiensworks.com/post/2017/10/30/Is-DDD-ES-CQRS-changing-domain)
 - `[2018-09-25 12:24]` [How To Build Docker Iamges Inside A Jenkins Containers](https://medium.com/@manav503/how-to-build-docker-images-inside-a-jenkins-container-d59944102f30)
 - `[2018-09-24 13:29]` [Loading ASP.NET Core MVC Views From A Database Or Other Location](https://www.mikesdotnetting.com/article/301/loading-asp-net-core-mvc-views-from-a-database-or-other-location)
 - `[2018-09-24 13:22]` [Loading ASP.NET Core MVC Views From A Database Or Other Location](https://www.mikesdotnetting.com/article/301/loading-asp-net-core-mvc-views-from-a-database-or-other-location)
