@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-10-05 17:38]` [One Singleton to Rule Them All](https://daedtech.com/one-singleton-to-rule-them-all)
 - `[2018-10-05 16:27]` [Implementing the Singleton Pattern in C#](http://csharpindepth.com/Articles/General/Singleton.aspx)
 - `[2018-10-05 01:03]` [Getting Organised With Microsoft Orleans 2.0 in .NET Core](http://gigi.nullneuron.net/gigilabs/getting-organised-with-microsoft-orleans-2-0-in-net-core)
 - `[2018-10-04 23:34]` [Using DDD, CQRS, Event Sourcing With A Vague, Fast Changing Domain](http://blog.sapiensworks.com/post/2017/10/30/Is-DDD-ES-CQRS-changing-domain)
