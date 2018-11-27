@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-11-27 18:24]` [Protected Routes And Authentication with React Router v4](https://tylermcginnis.com/react-router-protected-routes-authentication)
 - `[2018-11-21 19:06]` [Advanced Newtonsoft.Json](https://blog.rsuter.com/advanced-newtonsoft-json-dynamically-rename-or-ignore-properties-without-changing-the-serialized-class)
 - `[2018-10-08 01:08]` [Microsoft Orleans Tutorial: Grains and Silos](https://codeopinion.com/microsoft-orleans-tutorial-grains-and-silos)
 - `[2018-10-05 17:38]` [One Singleton to Rule Them All](https://daedtech.com/one-singleton-to-rule-them-all)
