@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2018-12-03 18:05]` [Miscellaneous C# Async Tips](https://stuartlang.uk/miscellaneous-csharp-async-tips)
 - `[2018-11-27 18:24]` [Protected Routes And Authentication with React Router v4](https://tylermcginnis.com/react-router-protected-routes-authentication)
 - `[2018-11-21 19:06]` [Advanced Newtonsoft.Json](https://blog.rsuter.com/advanced-newtonsoft-json-dynamically-rename-or-ignore-properties-without-changing-the-serialized-class)
 - `[2018-10-08 01:08]` [Microsoft Orleans Tutorial: Grains and Silos](https://codeopinion.com/microsoft-orleans-tutorial-grains-and-silos)
