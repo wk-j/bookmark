@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-01-04 11:15]` [Configuring HTTPS in ASP.NET Core 2.1](https://asp.net-hacker.rocks/2018/07/05/aspnetcore-ssl.html)
 - `[2018-12-19 16:25]` [Why Is String.GetHashCode() Different Each Time](https://andrewlock.net/why-is-string-gethashcode-different-each-time-i-run-my-program-in-net-core)
 - `[2018-12-18 16:24]` [Useful ASP.NET Core 2.2 Features](https://www.hanselman.com/blog/UsefulASPNETCore22Features.aspx)
 - `[2018-12-03 18:05]` [Miscellaneous C# Async Tips](https://stuartlang.uk/miscellaneous-csharp-async-tips)
