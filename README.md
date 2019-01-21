@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-01-21 14:08]` [RPM Packaging Guid](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/rpm_packaging_guide/index)
 - `[2019-01-21 13:51]` [How to Create an RPM Package](https://linuxconfig.org/how-to-create-an-rpm-package)
 - `[2019-01-19 00:06]` [Version vs VersionSuffix vs PackageVersion](https://andrewlock.net/version-vs-versionsuffix-vs-packageversion-what-do-they-all-mean)
 - `[2019-01-04 11:15]` [Configuring HTTPS in ASP.NET Core 2.1](https://asp.net-hacker.rocks/2018/07/05/aspnetcore-ssl.html)
