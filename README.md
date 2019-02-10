@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-02-11 01:27]` [Nullable Reference Types](https://github.com/dotnet/roslyn/blob/master/docs/features/nullable-reference-types.md)
 - `[2019-02-06 16:30]` [Alfresco Java Client SDK - Usage Part 3 - Creating Nodes](https://community.alfresco.com/community/ecm/blog/2016/11/17/alfresco-java-client-sdk-usage-part-3#_ga=2.196954543.2042653481.1549445174-1845160749.1549445174)
 - `[2019-02-06 16:28]` [Alfresco Java Client SDK - Usage Part 4 - Managing Nodes](https://community.alfresco.com/community/ecm/blog/2016/11/17/alfresco-java-client-sdk-usage-part-4#_ga=2.154486971.2042653481.1549445174-1845160749.1549445174)
 - `[2019-01-21 14:18]` [.NET Core on Red Hat Enterprise Linux](https://access.redhat.com/documentation/en-us/net_core/2.0/html/getting_started_guide/gs_install_dotnet#publish_applications)
