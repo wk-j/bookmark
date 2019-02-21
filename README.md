@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-02-21 12:19]` [Generic Host Builder in ASP .NET Core](https://wakeupandcode.com/generic-host-builder-in-asp-net-core)
 - `[2019-02-15 01:24]` [Alfresco DevCon 2019](http://www.keensoft.es/en/alfresco-devcon-2019)
 - `[2019-02-12 22:23]` [Alfresco DevCon 2019 New Horizons in Developer Experience](https://blog.amplexor.com/digitalexperience/en/alfresco-devcon-2019-new-horizons-developer-experience?utm_campaign=ECS%20Blog&utm_content=84826832&utm_medium=social&utm_source=twitter&hss_channel=tw-85321023)
 - `[2019-02-11 01:27]` [Nullable Reference Types](https://github.com/dotnet/roslyn/blob/master/docs/features/nullable-reference-types.md)
