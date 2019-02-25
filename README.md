@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-02-25 22:03]` [.NET Internals Cookbook](https://blog.adamfurmanek.pl/2019/02/16/net-internals-cookbook-part-1)
 - `[2019-02-21 17:46]` [Do More with Patterns in C# 8.0](https://devblogs.microsoft.com/dotnet/do-more-with-patterns-in-c-8-0)
 - `[2019-02-21 12:19]` [Generic Host Builder in ASP .NET Core](https://wakeupandcode.com/generic-host-builder-in-asp-net-core)
 - `[2019-02-15 01:24]` [Alfresco DevCon 2019](http://www.keensoft.es/en/alfresco-devcon-2019)
