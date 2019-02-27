@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-02-27 14:14]` [รู้จักกับ Character Set กันสักนิดนะครับ](http://www.thailibrary.in.th/2014/02/13/char-set)
 - `[2019-02-25 22:03]` [.NET Internals Cookbook](https://blog.adamfurmanek.pl/2019/02/16/net-internals-cookbook-part-1)
 - `[2019-02-21 17:46]` [Do More with Patterns in C# 8.0](https://devblogs.microsoft.com/dotnet/do-more-with-patterns-in-c-8-0)
 - `[2019-02-21 12:19]` [Generic Host Builder in ASP .NET Core](https://wakeupandcode.com/generic-host-builder-in-asp-net-core)
