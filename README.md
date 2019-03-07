@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-03-08 02:25]` [Sending Commands into a Screen Session](http://theterminallife.com/sending-commands-into-a-screen-session)
 - `[2019-02-27 15:06]` [How to Port Desktop Applications to .NET Core 3.0](https://devblogs.microsoft.com/dotnet/how-to-port-desktop-applications-to-net-core-3-0)
 - `[2019-02-27 14:14]` [รู้จักกับ Character Set กันสักนิดนะครับ](http://www.thailibrary.in.th/2014/02/13/char-set)
 - `[2019-02-25 22:03]` [.NET Internals Cookbook](https://blog.adamfurmanek.pl/2019/02/16/net-internals-cookbook-part-1)
