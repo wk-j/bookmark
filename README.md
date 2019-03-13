@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-03-13 11:56]` [Choosing an HTTP Status Code — Stop Making It Hard](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html?fbclid=IwAR3aNU-Y46c7EegAnhp8oFpsz-p8JS_w5MqbDb8kXqOGykMvuZpr-IZjaSg)
 - `[2019-03-08 20:56]` [Announcing F# 4.6 Preview](https://devblogs.microsoft.com/dotnet/announcing-f-4-6-preview)
 - `[2019-03-08 02:25]` [Sending Commands into a Screen Session](http://theterminallife.com/sending-commands-into-a-screen-session)
 - `[2019-02-27 15:06]` [How to Port Desktop Applications to .NET Core 3.0](https://devblogs.microsoft.com/dotnet/how-to-port-desktop-applications-to-net-core-3-0)
