@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-03-26 19:46]` [Testing with HttpClient Interception](https://stu.dev/testing-with-httpclient-interception)
 - `[2019-03-15 00:42]` [สถานะการสนับสนุนภาษาไทยใน GNU/Linux/X](https://linux.thai.net/~thep/thaisupp)
 - `[2019-03-13 11:56]` [Choosing an HTTP Status Code — Stop Making It Hard](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html?fbclid=IwAR3aNU-Y46c7EegAnhp8oFpsz-p8JS_w5MqbDb8kXqOGykMvuZpr-IZjaSg)
 - `[2019-03-08 20:56]` [Announcing F# 4.6 Preview](https://devblogs.microsoft.com/dotnet/announcing-f-4-6-preview)
