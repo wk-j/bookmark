@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-04-03 22:58]` [.NET Core Workers as Windows Services](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/?fbclid=IwAR0GIsLfCwyRKX3LPZu5nAsDw1PyHQlN9_NgXaENfPls8xi4is825V2fQQw)
 - `[2019-03-26 19:46]` [Testing with HttpClient Interception](https://stu.dev/testing-with-httpclient-interception)
 - `[2019-03-15 00:42]` [สถานะการสนับสนุนภาษาไทยใน GNU/Linux/X](https://linux.thai.net/~thep/thaisupp)
 - `[2019-03-13 11:56]` [Choosing an HTTP Status Code — Stop Making It Hard](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html?fbclid=IwAR3aNU-Y46c7EegAnhp8oFpsz-p8JS_w5MqbDb8kXqOGykMvuZpr-IZjaSg)
