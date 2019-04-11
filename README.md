@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-04-11 18:42]` [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
 - `[2019-04-11 18:34]` [JWT Token Authentication with Cookies in ASP.NET Core](https://amanagrawal.blog/2017/09/18/jwt-token-authentication-with-cookies-in-asp-net-core)
 - `[2019-04-03 22:58]` [.NET Core Workers as Windows Services](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/?fbclid=IwAR0GIsLfCwyRKX3LPZu5nAsDw1PyHQlN9_NgXaENfPls8xi4is825V2fQQw)
 - `[2019-03-26 19:46]` [Testing with HttpClient Interception](https://stu.dev/testing-with-httpclient-interception)
