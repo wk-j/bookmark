@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-05-29 18:03]` [Getting Started with Alfresco Identity Service EA (Keycloak)](https://community.alfresco.com/people/gravitonian/blog/2018/07/17/getting-started-with-alfresco-identity-service-ea-keycloak)
 - `[2019-05-28 14:21]` [ASP.Net Core & Angular OpenID Connect using Keycloak](https://medium.com/@xavier.hahn/asp-net-core-angular-openid-connect-using-keycloak-6437948c008)
 - `[2019-05-03 11:27]` [Encapsulating getting access tokens from IdentityServer with a typed HttpClient and MessageHandler](https://blog.joaograssi.com/typed-httpclient-with-messagehandler-getting-accesstokens-from-identityserver)
 - `[2019-04-11 18:42]` [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
