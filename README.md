@@ -4,7 +4,7 @@
 - `[2019-10-17 21:43]` [6 Lesser-Known Features of C#](https://chrisstclair.co.uk/6-lesser-known-features-of-c-net-that-you-should-be-using/?utm_source=csharpdigest&utm_medium=web&utm_campaign=featured)
 - `[2019-05-29 18:03]` [Getting Started with Alfresco Identity Service EA (Keycloak)](https://community.alfresco.com/people/gravitonian/blog/2018/07/17/getting-started-with-alfresco-identity-service-ea-keycloak)
 - `[2019-05-28 14:21]` [ASP.Net Core & Angular OpenID Connect using Keycloak](https://medium.com/@xavier.hahn/asp-net-core-angular-openid-connect-using-keycloak-6437948c008)
-- `[2019-05-03 11:27]` [Encapsulating getting access tokens from IdentityServer with a typed HttpClient and MessageHandler](https://blog.joaograssi.com/typed-httpclient-with-messagehandler-getting-accesstokens-from-identityserver)
+- `[2019-05-03 11:27]` [Getting access tokens from IdentityServer with a typed HttpClient and MessageHandler](https://blog.joaograssi.com/typed-httpclient-with-messagehandler-getting-accesstokens-from-identityserver)
 - `[2019-04-11 18:42]` [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
 - `[2019-04-11 18:34]` [JWT Token Authentication with Cookies in ASP.NET Core](https://amanagrawal.blog/2017/09/18/jwt-token-authentication-with-cookies-in-asp-net-core)
 - `[2019-04-03 22:58]` [.NET Core Workers as Windows Services](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/?fbclid=IwAR0GIsLfCwyRKX3LPZu5nAsDw1PyHQlN9_NgXaENfPls8xi4is825V2fQQw)
