@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-12-16 13:36]` [Deconstructors for Non Tuple Types in C# 7.0](https://blog.burgyn.online/2019/10/06/deconstructors-for-non-tuple-(en).html)
 - `[2019-12-13 19:53]` [Intro Guide to Dockerfile Best Practices](https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices)
 - `[2019-11-01 18:24]` [.NET Framework Reference Assemblies via NuGet](https://stu.dev/dotnet-framework-reference-assemblies-via-nuget)
 - `[2019-10-17 21:43]` [6 Lesser-Known Features of C#](https://chrisstclair.co.uk/6-lesser-known-features-of-c-net-that-you-should-be-using/?utm_source=csharpdigest&utm_medium=web&utm_campaign=featured)
