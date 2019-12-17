@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2019-12-17 19:27]` [C# 8 Switch Expressions with Pattern Matching](https://drakelambert.dev/2019/12/C%23-8-Switch-Expressions-with-Pattern-Matching)
 - `[2019-12-16 13:36]` [Deconstructors for Non Tuple Types in C# 7.0](https://blog.burgyn.online/2019/10/06/deconstructors-for-non-tuple-(en).html)
 - `[2019-12-13 19:53]` [Intro Guide to Dockerfile Best Practices](https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices)
 - `[2019-11-01 18:24]` [.NET Framework Reference Assemblies via NuGet](https://stu.dev/dotnet-framework-reference-assemblies-via-nuget)
