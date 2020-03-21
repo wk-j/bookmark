@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2020-03-21 17:51]` [Sharp Regrets: Top 10 Worst C# Features](https://www.informit.com/articles/article.aspx?p=2425867)
 - `[2019-12-17 19:27]` [C# 8 Switch Expressions with Pattern Matching](https://drakelambert.dev/2019/12/C%23-8-Switch-Expressions-with-Pattern-Matching)
 - `[2019-12-16 13:36]` [Deconstructors for Non Tuple Types in C# 7.0](https://blog.burgyn.online/2019/10/06/deconstructors-for-non-tuple-(en).html)
 - `[2019-12-13 19:53]` [Intro Guide to Dockerfile Best Practices](https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices)
