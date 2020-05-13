@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2020-05-13 23:04]` [Treat Logs as Event Streams](https://12factor.net/logs)
 - `[2020-05-10 02:56]` [C# 9 – Positional or Nominal Creation](https://csharp.christiannagel.com/2020/04/21/c-9-positional-or-nominal-creation)
 - `[2020-03-21 17:51]` [Sharp Regrets: Top 10 Worst C# Features](https://www.informit.com/articles/article.aspx?p=2425867)
 - `[2019-12-17 19:27]` [C# 8 Switch Expressions with Pattern Matching](https://drakelambert.dev/2019/12/C%23-8-Switch-Expressions-with-Pattern-Matching)
