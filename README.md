@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2020-05-20 02:24]` [How to Write Faster Code Than 90% of Programmers](https://jacksondunstan.com/articles/3860)
 - `[2020-05-20 01:36]` [Value Semantics and C# structs](http://blog.s-schoener.com/2018-03-04-value-semantics-csharp)
 - `[2020-05-13 23:04]` [Treat Logs as Event Streams](https://12factor.net/logs)
 - `[2020-05-10 02:56]` [C# 9 – Positional or Nominal Creation](https://csharp.christiannagel.com/2020/04/21/c-9-positional-or-nominal-creation)
