@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2020-05-21 01:25]` [5 More Things About Enums in C#](https://www.code4it.dev/blog/5-more-things-about-enums-csharp)
 - `[2020-05-20 02:24]` [How to Write Faster Code Than 90% of Programmers](https://jacksondunstan.com/articles/3860)
 - `[2020-05-20 01:36]` [Value Semantics and C# structs](http://blog.s-schoener.com/2018-03-04-value-semantics-csharp)
 - `[2020-05-13 23:04]` [Treat Logs as Event Streams](https://12factor.net/logs)
