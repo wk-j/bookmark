@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2020-06-07 13:37]` [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten)
 - `[2020-06-06 01:02]` [TypeScript Interface vs Type](https://pawelgrzybek.com/typescript-interface-vs-type)
 - `[2020-05-30 21:44]` [The Composite Pattern in F#](https://www.davidkdickson.com/2011/04/28/the-composite-pattern-in-F)
 - `[2020-05-21 01:25]` [5 More Things About Enums in C#](https://www.code4it.dev/blog/5-more-things-about-enums-csharp)
