@@ -1,5 +1,6 @@
 ## My Bookmarks
 
+- `[2020-06-08 12:41]` [Configure ASP.NET Core to Work with Proxy](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/proxy-load-balancer?view=aspnetcore-5.0)
 - `[2020-06-07 22:03]` [ASP.NET Core Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md)
 - `[2020-06-07 13:37]` [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten)
 - `[2020-06-06 01:02]` [TypeScript Interface vs Type](https://pawelgrzybek.com/typescript-interface-vs-type)
